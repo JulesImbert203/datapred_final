@@ -1,0 +1,435 @@
+uri,lang,isDuplicate,date,time,dateTime,dateTimePub,dataType,sim,url,title,body,source_uri,source_dataType,source_title,authors,sentiment,wgt,relevance,image,eventUri
+2024-05-372234174,eng,False,2024-05-29,14:39:17,2024-05-29T14:39:17Z,2024-05-29T14:39:05Z,news,0.0,https://world-nuclear-news.org/Articles/SMR-developers-enlist-French-nuclear-expertise?feed=FullFeed,SMR developers enlist French nuclear expertise : New Nuclear - World Nuclear News,"Thorizon of the Netherlands has signed a cooperation agreement with France's EDF R&D to advance the Thorizon One molten salt reactor design. Meanwhile, Blue Capsule has signed a partnership agreement with the French Alternative Energies & Atomic Energy Commission, from which it was spun off, for the development of its small modular reactor.
+
+Thorizon - a spin-off from NRG, which operates the High Flux Reactor in Petten - is developing a 250 MWt/100 MWe molten salt reactor (MSR), targeted at large industrial customers and utilities. Thorizon aims to construct a pilot reactor system before 2035.
+
+MSRs use molten fluoride salts as primary coolant, at low pressure. They may operate with epithermal or fast neutron spectrums, and with a variety of fuels. Much of the interest today in reviving the MSR concept relates to using thorium (to breed fissile uranium-233), where an initial source of fissile material such as plutonium-239 needs to be provided. There are a number of different MSR design concepts, and a number of interesting challenges in the commercialisation of many, especially with thorium.
+
+The molten salt fuel adopted by Thorizon uses a combination of long-lived elements from reprocessed used nuclear fuel and thorium. The reactor will be able to recycle long-lived waste from existing nuclear facilities. The Thorizon One concept is unique in that the core is composed of a set of cartridges that is replaced every five to ten years. This, the company says, overcomes two molten salt design obstacles: material corrosion and handling of used fuel volumes.
+
+Under the new agreement, EDF R&D will review Thorizon's neutronic core calculations and conduct scenario analyses to determine how the Thorizon One could help to close the fuel cycle in the European reactor fleet.
+
+Thorizon said it will ""benefit from EDF's expertise as the French leader in electricity production, and in particular from the recognised skills of its R&D researchers"".
+
+""The R&D team covers all disciplines from neutronics and fuel to safety and construction,"" said Bernard Salha, EDF R&D Director and EDF Group Chief Technical Officer. ""We are actively supporting several start-ups in the France 2030 programme. The cartridge-based approach of Thorizon is interesting and promising.""
+
+""It is a pleasure to work with the EDF team which has more experience in nuclear than any company across the globe,"" added Thorizon CEO Kiki Lauwers. ""Thanks to EDF R&D, start-ups like us benefit from access to unique industry experts that can very quickly spot the strengths and areas for improvements in our design. We hope we can continue to work with the EDF R&D team on the realisation of our technology in the future. We believe all solutions are needed to empower the energy transition and the Thorizon One can be a great compliment to the existing and planned nuclear fleet.""
+
+Horizon says its ambition is to develop an MSR that ""can be realised rapidly and smartly, is 'walk-away' safe, and takes a first step towards circularity by using long-lived nuclear waste as a fuel source"". The company aims to build a non-nuclear molten salt demonstrator in the short-term and finalise the detailed design to start building a first-of-a-kind Thorizon One reactor by 2030.
+
+Decarbonising industry
+
+Blue Capsule - a spin-off from France's Alternative Energies & Atomic Energy Commission (CEA) - has announced the signing of a partnership agreement with the CEA for the development of its small modular reactor (SMR) that will supply heat and power to industry.
+
+Aix-en-Provence-based Blue Capsule is developing a sodium-cooled, high-temperature SMR which can provide 150 MW of heat at 700°C, along with high-temperature steam and electricity. The company aims to decarbonise industrial sites used for ammonia and soda ash production, with subterranean capsules co-located onsite, close to demand.
+
+Under the new agreement - with financial support from French public investment bank Bpifrance - CEA's support for Blue Capsule will extend to fields such as equipment and components, materials, calculation codes and TRISO-based fuel.
+
+""France's leadership in the fields of nuclear energy and low-carbon solutions is creating big opportunities for industry right across the country,"" said Blue Capsule's reactor architect Domnin Erard. ""And for Blue Capsule, collaboration with the French nuclear sector is front and centre of our strategy.
+
+""This vital partnership with the CEA means that Blue Capsule benefits from world-class expertise across the board. It lays the foundations for our future industrial cooperation with the French nuclear supply chain, for manufacturing and assembling Blue Capsule units.
+
+""It all comes down to cutting industrial CO2 emissions and of course the re-industrialisation of communities in France and beyond. For our part, we'll do everything we can to help achieve that objective.""
+
+Blue Capsule is planning to build a proof-of-concept sodium loop and a non-nuclear prototype by 2030. The company's first-of-a-kind SMR is scheduled for construction by 2035 and is set to be built in France.",world-nuclear-news.org,news,World Nuclear News (WNN),,0.1372549019607843,454689557,1,,
+2024-05-372234174,eng,False,2024-05-29,14:39:17,2024-05-29T14:39:17Z,2024-05-29T14:39:05Z,news,0.0,https://world-nuclear-news.org/Articles/SMR-developers-enlist-French-nuclear-expertise?feed=FullFeed,SMR developers enlist French nuclear expertise : New Nuclear - World Nuclear News,"Thorizon of the Netherlands has signed a cooperation agreement with France's EDF R&D to advance the Thorizon One molten salt reactor design. Meanwhile, Blue Capsule has signed a partnership agreement with the French Alternative Energies & Atomic Energy Commission, from which it was spun off, for the development of its small modular reactor.
+
+Thorizon - a spin-off from NRG, which operates the High Flux Reactor in Petten - is developing a 250 MWt/100 MWe molten salt reactor (MSR), targeted at large industrial customers and utilities. Thorizon aims to construct a pilot reactor system before 2035.
+
+MSRs use molten fluoride salts as primary coolant, at low pressure. They may operate with epithermal or fast neutron spectrums, and with a variety of fuels. Much of the interest today in reviving the MSR concept relates to using thorium (to breed fissile uranium-233), where an initial source of fissile material such as plutonium-239 needs to be provided. There are a number of different MSR design concepts, and a number of interesting challenges in the commercialisation of many, especially with thorium.
+
+The molten salt fuel adopted by Thorizon uses a combination of long-lived elements from reprocessed used nuclear fuel and thorium. The reactor will be able to recycle long-lived waste from existing nuclear facilities. The Thorizon One concept is unique in that the core is composed of a set of cartridges that is replaced every five to ten years. This, the company says, overcomes two molten salt design obstacles: material corrosion and handling of used fuel volumes.
+
+Under the new agreement, EDF R&D will review Thorizon's neutronic core calculations and conduct scenario analyses to determine how the Thorizon One could help to close the fuel cycle in the European reactor fleet.
+
+Thorizon said it will ""benefit from EDF's expertise as the French leader in electricity production, and in particular from the recognised skills of its R&D researchers"".
+
+""The R&D team covers all disciplines from neutronics and fuel to safety and construction,"" said Bernard Salha, EDF R&D Director and EDF Group Chief Technical Officer. ""We are actively supporting several start-ups in the France 2030 programme. The cartridge-based approach of Thorizon is interesting and promising.""
+
+""It is a pleasure to work with the EDF team which has more experience in nuclear than any company across the globe,"" added Thorizon CEO Kiki Lauwers. ""Thanks to EDF R&D, start-ups like us benefit from access to unique industry experts that can very quickly spot the strengths and areas for improvements in our design. We hope we can continue to work with the EDF R&D team on the realisation of our technology in the future. We believe all solutions are needed to empower the energy transition and the Thorizon One can be a great compliment to the existing and planned nuclear fleet.""
+
+Horizon says its ambition is to develop an MSR that ""can be realised rapidly and smartly, is 'walk-away' safe, and takes a first step towards circularity by using long-lived nuclear waste as a fuel source"". The company aims to build a non-nuclear molten salt demonstrator in the short-term and finalise the detailed design to start building a first-of-a-kind Thorizon One reactor by 2030.
+
+Decarbonising industry
+
+Blue Capsule - a spin-off from France's Alternative Energies & Atomic Energy Commission (CEA) - has announced the signing of a partnership agreement with the CEA for the development of its small modular reactor (SMR) that will supply heat and power to industry.
+
+Aix-en-Provence-based Blue Capsule is developing a sodium-cooled, high-temperature SMR which can provide 150 MW of heat at 700°C, along with high-temperature steam and electricity. The company aims to decarbonise industrial sites used for ammonia and soda ash production, with subterranean capsules co-located onsite, close to demand.
+
+Under the new agreement - with financial support from French public investment bank Bpifrance - CEA's support for Blue Capsule will extend to fields such as equipment and components, materials, calculation codes and TRISO-based fuel.
+
+""France's leadership in the fields of nuclear energy and low-carbon solutions is creating big opportunities for industry right across the country,"" said Blue Capsule's reactor architect Domnin Erard. ""And for Blue Capsule, collaboration with the French nuclear sector is front and centre of our strategy.
+
+""This vital partnership with the CEA means that Blue Capsule benefits from world-class expertise across the board. It lays the foundations for our future industrial cooperation with the French nuclear supply chain, for manufacturing and assembling Blue Capsule units.
+
+""It all comes down to cutting industrial CO2 emissions and of course the re-industrialisation of communities in France and beyond. For our part, we'll do everything we can to help achieve that objective.""
+
+Blue Capsule is planning to build a proof-of-concept sodium loop and a non-nuclear prototype by 2030. The company's first-of-a-kind SMR is scheduled for construction by 2035 and is set to be built in France.",world-nuclear-news.org,news,World Nuclear News (WNN),,0.1372549019607843,454689557,3,,
+8153717317,eng,False,2024-05-30,16:36:15,2024-05-30T16:36:15Z,2024-05-30T16:17:38Z,news,0.0,https://www.marketscreener.com/quote/stock/MCPHY-ENERGY-15933338/news/McPhy-Energy-Summary-of-the-Combined-General-Meeting-and-Board-of-Directors-of-McPhy-Energy-of-May-46866523/,"McPhy Energy:  Summary of the Combined General Meeting and Board of Directors of McPhy Energy of May 30, 2024","Grenoble, May 30, 2024 - 6:15 pm CEST - McPhy Energy (the ""Company"") announces that the Combined General Meeting of its shareholders held today (the ""General Meeting""), under the chairmanship of its Chairman of the Board of Directors (the ""Board""), approved all the resolutions submitted to it and in particular:
+
+The General Meeting approved the Company's financial statements and the related allocation of net income, as well as the Group's consolidated financial statements for the year ended December 31, 2023.
+
+The General Meeting also approved:
+
+The General Meeting gave the Board full powers to transfer the market for the Company's shares from the regulated Euronext Paris market (Compartment C) to the organized multilateral trading facility Euronext Growth Paris. The Board decided today to implement this transfer. For further details, please refer to the related press release also published today (https://mcphy-finance.com/index.php/en/financial-publications/press-releases).
+
+The General Meeting also approved the renewal of the share buy-back program, and authorized the Board to cancel some or all of the Company's treasury shares, within the limits set by the General Meeting. The Board also decided today to implement this program.
+
+The General Meeting adopted the resolutions relating to the proposed issues of bonds convertible into new ordinary shares and/or exchangeable for existing ordinary shares reserved to EDF Pulse Holding and EPIC Bpifrance, acting on behalf of the French State under the ""French Tech Souveraineté Agreement"" dated December 11, 2020 and, as the case may be, other investors qualifying as per the categories defined in the 29 resolution of the General Meeting (the ""Issue"").
+
+The Board today, implementing the delegations thus granted by the General Meeting, decided to approve the principle of the Bond Issue and to sub-delegate its authority to the Chief Executive Officer, in particular for the purpose of deciding to proceed with the Issue. It is specified that the Issue remains subject to the approval by the Autorité des marchés financiers of the prospectus relating to the application for admission to trading of the new shares to be issued on conversion of the bonds on the regulated market of Euronext in Paris.
+
+The Company's shareholders are also invited to regularly consult the information relating to the Issue published on the Company's website, in particular in the ""Financial Operations"" section (https://mcphy-finance.com/index.php/en/financial-publications/financial-operations/financial-transactions).
+
+In addition, the General Meeting approved:
+
+The results of voting on the resolutions will be available on the Company's website.
+
+The Company would like to thank all shareholders present, represented or voting by post or internet for their commitment and support.
+
+ABOUT MCPHY
+
+Specialized in hydrogen production and distribution equipment, McPhy is contributing to the global deployment of low carbon hydrogen as a solution for energy transition. With its complete range of products dedicated to the industrial, mobility and energy sectors, McPhy offers its customers turnkey solutions adapted to their applications in industrial raw material supply, recharging of fuel cell electric vehicles or storage and recovery of electricity surplus based on renewable sources. As designer, manufacturer and integrator of hydrogen equipment since 2008, McPhy has three development, engineering and production centers in Europe (France, Italy, Germany). Its international subsidiaries provide broad commercial coverage for its innovative hydrogen solutions. McPhy is listed on Euronext Paris (compartment C, ISIN code: FR0011742329, MCPHY).
+
+The General Meeting also approved the ratification of his co-optation by the Board in April 2024.
+
+This appointment is subject to and as from the completion of the issue of the convertible bonds and the related subscription to it by EDF Pulse Holding. Please refer to point 5 below.
+
+Please also refer to the description of the Company's share buyback program, as published in the 2023 Universal Registration Document and made available to the General Meeting. This description is available on the Company's website.
+
+For further details, please refer to the Company's press releases on this subject, as well as to the additional information made available at the General Meeting. All this information is available on the Company's website.",marketscreener.com,news,Market Screener,,0.4509803921568627,454782975,1,,
+8153717317,eng,False,2024-05-30,16:36:15,2024-05-30T16:36:15Z,2024-05-30T16:17:38Z,news,0.0,https://www.marketscreener.com/quote/stock/MCPHY-ENERGY-15933338/news/McPhy-Energy-Summary-of-the-Combined-General-Meeting-and-Board-of-Directors-of-McPhy-Energy-of-May-46866523/,"McPhy Energy:  Summary of the Combined General Meeting and Board of Directors of McPhy Energy of May 30, 2024","Grenoble, May 30, 2024 - 6:15 pm CEST - McPhy Energy (the ""Company"") announces that the Combined General Meeting of its shareholders held today (the ""General Meeting""), under the chairmanship of its Chairman of the Board of Directors (the ""Board""), approved all the resolutions submitted to it and in particular:
+
+The General Meeting approved the Company's financial statements and the related allocation of net income, as well as the Group's consolidated financial statements for the year ended December 31, 2023.
+
+The General Meeting also approved:
+
+The General Meeting gave the Board full powers to transfer the market for the Company's shares from the regulated Euronext Paris market (Compartment C) to the organized multilateral trading facility Euronext Growth Paris. The Board decided today to implement this transfer. For further details, please refer to the related press release also published today (https://mcphy-finance.com/index.php/en/financial-publications/press-releases).
+
+The General Meeting also approved the renewal of the share buy-back program, and authorized the Board to cancel some or all of the Company's treasury shares, within the limits set by the General Meeting. The Board also decided today to implement this program.
+
+The General Meeting adopted the resolutions relating to the proposed issues of bonds convertible into new ordinary shares and/or exchangeable for existing ordinary shares reserved to EDF Pulse Holding and EPIC Bpifrance, acting on behalf of the French State under the ""French Tech Souveraineté Agreement"" dated December 11, 2020 and, as the case may be, other investors qualifying as per the categories defined in the 29 resolution of the General Meeting (the ""Issue"").
+
+The Board today, implementing the delegations thus granted by the General Meeting, decided to approve the principle of the Bond Issue and to sub-delegate its authority to the Chief Executive Officer, in particular for the purpose of deciding to proceed with the Issue. It is specified that the Issue remains subject to the approval by the Autorité des marchés financiers of the prospectus relating to the application for admission to trading of the new shares to be issued on conversion of the bonds on the regulated market of Euronext in Paris.
+
+The Company's shareholders are also invited to regularly consult the information relating to the Issue published on the Company's website, in particular in the ""Financial Operations"" section (https://mcphy-finance.com/index.php/en/financial-publications/financial-operations/financial-transactions).
+
+In addition, the General Meeting approved:
+
+The results of voting on the resolutions will be available on the Company's website.
+
+The Company would like to thank all shareholders present, represented or voting by post or internet for their commitment and support.
+
+ABOUT MCPHY
+
+Specialized in hydrogen production and distribution equipment, McPhy is contributing to the global deployment of low carbon hydrogen as a solution for energy transition. With its complete range of products dedicated to the industrial, mobility and energy sectors, McPhy offers its customers turnkey solutions adapted to their applications in industrial raw material supply, recharging of fuel cell electric vehicles or storage and recovery of electricity surplus based on renewable sources. As designer, manufacturer and integrator of hydrogen equipment since 2008, McPhy has three development, engineering and production centers in Europe (France, Italy, Germany). Its international subsidiaries provide broad commercial coverage for its innovative hydrogen solutions. McPhy is listed on Euronext Paris (compartment C, ISIN code: FR0011742329, MCPHY).
+
+The General Meeting also approved the ratification of his co-optation by the Board in April 2024.
+
+This appointment is subject to and as from the completion of the issue of the convertible bonds and the related subscription to it by EDF Pulse Holding. Please refer to point 5 below.
+
+Please also refer to the description of the Company's share buyback program, as published in the 2023 Universal Registration Document and made available to the General Meeting. This description is available on the Company's website.
+
+For further details, please refer to the Company's press releases on this subject, as well as to the additional information made available at the General Meeting. All this information is available on the Company's website.",marketscreener.com,news,Market Screener,,0.4509803921568627,454782975,1,,
+2024-05-372234174,eng,False,2024-05-29,14:39:17,2024-05-29T14:39:17Z,2024-05-29T14:39:05Z,news,0.0,https://world-nuclear-news.org/Articles/SMR-developers-enlist-French-nuclear-expertise?feed=FullFeed,SMR developers enlist French nuclear expertise : New Nuclear - World Nuclear News,"Thorizon of the Netherlands has signed a cooperation agreement with France's EDF R&D to advance the Thorizon One molten salt reactor design. Meanwhile, Blue Capsule has signed a partnership agreement with the French Alternative Energies & Atomic Energy Commission, from which it was spun off, for the development of its small modular reactor.
+
+Thorizon - a spin-off from NRG, which operates the High Flux Reactor in Petten - is developing a 250 MWt/100 MWe molten salt reactor (MSR), targeted at large industrial customers and utilities. Thorizon aims to construct a pilot reactor system before 2035.
+
+MSRs use molten fluoride salts as primary coolant, at low pressure. They may operate with epithermal or fast neutron spectrums, and with a variety of fuels. Much of the interest today in reviving the MSR concept relates to using thorium (to breed fissile uranium-233), where an initial source of fissile material such as plutonium-239 needs to be provided. There are a number of different MSR design concepts, and a number of interesting challenges in the commercialisation of many, especially with thorium.
+
+The molten salt fuel adopted by Thorizon uses a combination of long-lived elements from reprocessed used nuclear fuel and thorium. The reactor will be able to recycle long-lived waste from existing nuclear facilities. The Thorizon One concept is unique in that the core is composed of a set of cartridges that is replaced every five to ten years. This, the company says, overcomes two molten salt design obstacles: material corrosion and handling of used fuel volumes.
+
+Under the new agreement, EDF R&D will review Thorizon's neutronic core calculations and conduct scenario analyses to determine how the Thorizon One could help to close the fuel cycle in the European reactor fleet.
+
+Thorizon said it will ""benefit from EDF's expertise as the French leader in electricity production, and in particular from the recognised skills of its R&D researchers"".
+
+""The R&D team covers all disciplines from neutronics and fuel to safety and construction,"" said Bernard Salha, EDF R&D Director and EDF Group Chief Technical Officer. ""We are actively supporting several start-ups in the France 2030 programme. The cartridge-based approach of Thorizon is interesting and promising.""
+
+""It is a pleasure to work with the EDF team which has more experience in nuclear than any company across the globe,"" added Thorizon CEO Kiki Lauwers. ""Thanks to EDF R&D, start-ups like us benefit from access to unique industry experts that can very quickly spot the strengths and areas for improvements in our design. We hope we can continue to work with the EDF R&D team on the realisation of our technology in the future. We believe all solutions are needed to empower the energy transition and the Thorizon One can be a great compliment to the existing and planned nuclear fleet.""
+
+Horizon says its ambition is to develop an MSR that ""can be realised rapidly and smartly, is 'walk-away' safe, and takes a first step towards circularity by using long-lived nuclear waste as a fuel source"". The company aims to build a non-nuclear molten salt demonstrator in the short-term and finalise the detailed design to start building a first-of-a-kind Thorizon One reactor by 2030.
+
+Decarbonising industry
+
+Blue Capsule - a spin-off from France's Alternative Energies & Atomic Energy Commission (CEA) - has announced the signing of a partnership agreement with the CEA for the development of its small modular reactor (SMR) that will supply heat and power to industry.
+
+Aix-en-Provence-based Blue Capsule is developing a sodium-cooled, high-temperature SMR which can provide 150 MW of heat at 700°C, along with high-temperature steam and electricity. The company aims to decarbonise industrial sites used for ammonia and soda ash production, with subterranean capsules co-located onsite, close to demand.
+
+Under the new agreement - with financial support from French public investment bank Bpifrance - CEA's support for Blue Capsule will extend to fields such as equipment and components, materials, calculation codes and TRISO-based fuel.
+
+""France's leadership in the fields of nuclear energy and low-carbon solutions is creating big opportunities for industry right across the country,"" said Blue Capsule's reactor architect Domnin Erard. ""And for Blue Capsule, collaboration with the French nuclear sector is front and centre of our strategy.
+
+""This vital partnership with the CEA means that Blue Capsule benefits from world-class expertise across the board. It lays the foundations for our future industrial cooperation with the French nuclear supply chain, for manufacturing and assembling Blue Capsule units.
+
+""It all comes down to cutting industrial CO2 emissions and of course the re-industrialisation of communities in France and beyond. For our part, we'll do everything we can to help achieve that objective.""
+
+Blue Capsule is planning to build a proof-of-concept sodium loop and a non-nuclear prototype by 2030. The company's first-of-a-kind SMR is scheduled for construction by 2035 and is set to be built in France.",world-nuclear-news.org,news,World Nuclear News (WNN),,0.1372549019607843,454689557,12,,
+8153717317,eng,False,2024-05-30,16:36:15,2024-05-30T16:36:15Z,2024-05-30T16:17:38Z,news,0.0,https://www.marketscreener.com/quote/stock/MCPHY-ENERGY-15933338/news/McPhy-Energy-Summary-of-the-Combined-General-Meeting-and-Board-of-Directors-of-McPhy-Energy-of-May-46866523/,"McPhy Energy:  Summary of the Combined General Meeting and Board of Directors of McPhy Energy of May 30, 2024","Grenoble, May 30, 2024 - 6:15 pm CEST - McPhy Energy (the ""Company"") announces that the Combined General Meeting of its shareholders held today (the ""General Meeting""), under the chairmanship of its Chairman of the Board of Directors (the ""Board""), approved all the resolutions submitted to it and in particular:
+
+The General Meeting approved the Company's financial statements and the related allocation of net income, as well as the Group's consolidated financial statements for the year ended December 31, 2023.
+
+The General Meeting also approved:
+
+The General Meeting gave the Board full powers to transfer the market for the Company's shares from the regulated Euronext Paris market (Compartment C) to the organized multilateral trading facility Euronext Growth Paris. The Board decided today to implement this transfer. For further details, please refer to the related press release also published today (https://mcphy-finance.com/index.php/en/financial-publications/press-releases).
+
+The General Meeting also approved the renewal of the share buy-back program, and authorized the Board to cancel some or all of the Company's treasury shares, within the limits set by the General Meeting. The Board also decided today to implement this program.
+
+The General Meeting adopted the resolutions relating to the proposed issues of bonds convertible into new ordinary shares and/or exchangeable for existing ordinary shares reserved to EDF Pulse Holding and EPIC Bpifrance, acting on behalf of the French State under the ""French Tech Souveraineté Agreement"" dated December 11, 2020 and, as the case may be, other investors qualifying as per the categories defined in the 29 resolution of the General Meeting (the ""Issue"").
+
+The Board today, implementing the delegations thus granted by the General Meeting, decided to approve the principle of the Bond Issue and to sub-delegate its authority to the Chief Executive Officer, in particular for the purpose of deciding to proceed with the Issue. It is specified that the Issue remains subject to the approval by the Autorité des marchés financiers of the prospectus relating to the application for admission to trading of the new shares to be issued on conversion of the bonds on the regulated market of Euronext in Paris.
+
+The Company's shareholders are also invited to regularly consult the information relating to the Issue published on the Company's website, in particular in the ""Financial Operations"" section (https://mcphy-finance.com/index.php/en/financial-publications/financial-operations/financial-transactions).
+
+In addition, the General Meeting approved:
+
+The results of voting on the resolutions will be available on the Company's website.
+
+The Company would like to thank all shareholders present, represented or voting by post or internet for their commitment and support.
+
+ABOUT MCPHY
+
+Specialized in hydrogen production and distribution equipment, McPhy is contributing to the global deployment of low carbon hydrogen as a solution for energy transition. With its complete range of products dedicated to the industrial, mobility and energy sectors, McPhy offers its customers turnkey solutions adapted to their applications in industrial raw material supply, recharging of fuel cell electric vehicles or storage and recovery of electricity surplus based on renewable sources. As designer, manufacturer and integrator of hydrogen equipment since 2008, McPhy has three development, engineering and production centers in Europe (France, Italy, Germany). Its international subsidiaries provide broad commercial coverage for its innovative hydrogen solutions. McPhy is listed on Euronext Paris (compartment C, ISIN code: FR0011742329, MCPHY).
+
+The General Meeting also approved the ratification of his co-optation by the Board in April 2024.
+
+This appointment is subject to and as from the completion of the issue of the convertible bonds and the related subscription to it by EDF Pulse Holding. Please refer to point 5 below.
+
+Please also refer to the description of the Company's share buyback program, as published in the 2023 Universal Registration Document and made available to the General Meeting. This description is available on the Company's website.
+
+For further details, please refer to the Company's press releases on this subject, as well as to the additional information made available at the General Meeting. All this information is available on the Company's website.",marketscreener.com,news,Market Screener,,0.4509803921568627,454782975,1,,
+8133127491,eng,True,2024-05-17,20:38:47,2024-05-17T20:38:47Z,2024-05-17T20:34:39Z,news,0.0,https://www.businessupturn.com/brand-post/mcphy-energy-is-making-available-information-concerning-a-contemplated-issue-of-bonds-convertible-into-new-ordinary-shares-and-or-exchangeable-for-existing-ordinary-shares/,McPhy Energy is making available information concerning a contemplated issue of bonds convertible into new ordinary shares and/or exchangeable for existing ordinary shares | Business Upturn,"McPhy Energy is making available information concerning a contemplated issue of bonds convertible into new ordinary shares and/or exchangeable for existing ordinary shares for the benefit of EDF Pulse Holding and EPIC Bpifrance and, if applicable, other investors
+
+Grenoble, May 17, 2024 - 10:00 pm CEST - McPhy Energy, a specialist in low-carbon hydrogen production and distribution equipment (electrolyzers and refuelling stations) (the ""Company""), today announced the availability of additional information regarding a contemplated issue of bonds convertible into new shares and/or exchangeable for existing shares (OCEANEs), maturing 5 years after their issue (the ""Convertible Bonds"") to the benefit of EDF Pulse Holding (""EDF Pulse"") and EPIC Bpifrance, acting on behalf of the French State under the French Tech Souveraineté Agreement (Convention French Tech Souveraineté) dated December 11, 2020 (""French Tech Souveraineté""), for a total nominal amount of €30 million (the ""Issue""), which is the subject of resolutions submitted to the approval of the Shareholders General Meeting to be held on May 30, 2024. The Company will consider the possibility of issuing an additional amount to other investors depending on market conditions.
+
+As previously disclosed, the key financial terms of the Convertible Bonds would be as follows:
+
+The net proceeds of the Issue will enable the Company to finance its working capital requirements and general cash needs, in particular the development of its commercial activity, industrial facilities and its research and development activity.
+
+Additional information relating to the Issue concerns in particular the terms and conditions of the Convertible Bonds, the legal framework of the Issue, the risk factors associated with Issue and the Company, and the potential dilution resulting from the Issue for shareholders.
+
+This information is available on the Company's website under the sections ""General Meetings - CGM 30 May 2024"" (link: https://mcphy-finance.com/index.php/en/general-meetings/cgm-30-may-2024) and ""Financial publications - Financial transactions"" (link: https://mcphy-finance.com/index.php/en/financial-publications/financial-operations/financial-transactions).
+
+This press release does not constitute an offer to subscribe or a solicitation to buy, subscribe or sell any securities to any person in the United States, Australia or Canada or in any other jurisdiction in which such an issue would be unlawful, and the Issue does not constitute an offer to the public in any jurisdiction, including France, to persons other than qualified investors.
+
+________________________________
+
+ABOUT MCPHY
+
+Specialized in hydrogen production and distribution equipment, McPhy is contributing to the global deployment of low carbon hydrogen as a solution for energy transition. With its complete range of products dedicated to the industrial, mobility and energy sectors, McPhy offers its customers turnkey solutions adapted to their applications in industrial raw material supply, recharging of fuel cell electric vehicles or storage and recovery of electricity surplus based on renewable sources. As designer, manufacturer and integrator of hydrogen equipment since 2008, McPhy has three development, engineering and production centers in Europe (France, Italy, Germany). Its international subsidiaries provide broad commercial coverage for its innovative hydrogen solutions. McPhy is listed on Euronext Paris (compartment C, ISIN code: FR0011742329, MCPHY).
+
+EPIC Bpifrance acting on behalf of the French State under the French Tech Souveraineté Agreement dated 11 December 2020.
+
+Press release published by the Company on March 7, 2024, available on the Company's website (www.mcphy-finance.com) under section ""Financial publications - Press releases"".
+
+In French version. English version will be made available as well shortly.
+
+Attachment
+
+Disclaimer: The above press release comes to you under an arrangement with GlobeNewswire. Business Upturn takes no editorial responsibility for the same.",businessupturn.com,news,Business Upturn,,0.3254901960784313,453674327,1,https://images.businessupturn.com/wp-content/uploads/2023/08/upturn-logo_final_Artboard-1-copy-9-1024x576.jpg,
+2024-05-359793218,eng,False,2024-05-17,20:12:54,2024-05-17T20:12:54Z,2024-05-17T07:15:57Z,news,0.0,https://www.finanzen.ch/nachrichten/aktien/mcphy-energy-is-making-available-information-concerning-a-contemplated-issue-of-bonds-convertible-into-new-ordinary-shares-and-or-exchangeable-for-existing-ordinary-shares-1033400679,McPhy Energy is making available information concerning a contemplated issue of bonds convertible into new ordinary shares and/or exchangeable for existing ordinary shares,"McPhy Energy is making available information concerning a contemplated issue of bonds convertible into new ordinary shares and/or exchangeable for existing ordinary shares for the benefit of EDF Pulse Holding and EPIC Bpifrance and, if applicable, other investors
+
+Grenoble, May 17, 2024 - 10:00 pm CEST - McPhy Energy, a specialist in low-carbon hydrogen production and distribution equipment (electrolyzers and refuelling stations) (the ""Company""), today announced the availability of additional information regarding a contemplated issue of bonds convertible into new shares and/or exchangeable for existing shares (OCEANEs), maturing 5 years after their issue (the ""Convertible Bonds"") to the benefit of EDF Pulse Holding (""EDF Pulse"") and EPIC Bpifrance, acting on behalf of the French State under the French Tech Souveraineté Agreement (Convention French Tech Souveraineté) dated December 11, 2020 (""French Tech Souveraineté""), for a total nominal amount of €30 million (the ""Issue""), which is the subject of resolutions submitted to the approval of the Shareholders General Meeting to be held on May 30, 2024. The Company will consider the possibility of issuing an additional amount to other investors depending on market conditions.
+
+As previously disclosed, the key financial terms of the Convertible Bonds would be as follows:
+
+The net proceeds of the Issue will enable the Company to finance its working capital requirements and general cash needs, in particular the development of its commercial activity, industrial facilities and its research and development activity.
+
+Additional information relating to the Issue concerns in particular the terms and conditions of the Convertible Bonds, the legal framework of the Issue, the risk factors associated with Issue and the Company, and the potential dilution resulting from the Issue for shareholders.
+
+This information is available on the Company's website under the sections ""General Meetings - CGM 30 May 2024"" (link: https://mcphy-finance.com/index.php/en/general-meetings/cgm-30-may-2024) and ""Financial publications - Financial transactions"" (link: https://mcphy-finance.com/index.php/en/financial-publications/financial-operations/financial-transactions).
+
+This press release does not constitute an offer to subscribe or a solicitation to buy, subscribe or sell any securities to any person in the United States, Australia or Canada or in any other jurisdiction in which such an issue would be unlawful, and the Issue does not constitute an offer to the public in any jurisdiction, including France, to persons other than qualified investors.
+
+________________________________
+
+ABOUT MCPHY
+
+Specialized in hydrogen production and distribution equipment, McPhy is contributing to the global deployment of low carbon hydrogen as a solution for energy transition. With its complete range of products dedicated to the industrial, mobility and energy sectors, McPhy offers its customers turnkey solutions adapted to their applications in industrial raw material supply, recharging of fuel cell electric vehicles or storage and recovery of electricity surplus based on renewable sources. As designer, manufacturer and integrator of hydrogen equipment since 2008, McPhy has three development, engineering and production centers in Europe (France, Italy, Germany). Its international subsidiaries provide broad commercial coverage for its innovative hydrogen solutions. McPhy is listed on Euronext Paris (compartment C, ISIN code: FR0011742329, MCPHY).
+
+EPIC Bpifrance acting on behalf of the French State under the French Tech Souveraineté Agreement dated 11 December 2020.
+
+Press release published by the Company on March 7, 2024, available on the Company's website (www.mcphy-finance.com) under section ""Financial publications - Press releases"".
+
+In French version. English version will be made available as well shortly.",finanzen.ch,news,finanzen.ch,,0.8117647058823529,453672774,1,https://images.finanzen.net/mediacenter/unsortiert/facebookicon.jpg,
+2024-05-359789411,eng,True,2024-05-17,20:07:21,2024-05-17T20:07:21Z,2024-05-17T20:00:00Z,news,0.0,https://www.finanzen.at/nachrichten/aktien/mcphy-energy-is-making-available-information-concerning-a-contemplated-issue-of-bonds-convertible-into-new-ordinary-shares-and-or-exchangeable-for-existing-ordinary-shares-1033400679,McPhy Energy is making available information concerning a contemplated issue of bonds convertible into new ordinary shares and/or exchangeable for existing ordinary shares,"McPhy Energy is making available information concerning a contemplated issue of bonds convertible into new ordinary shares and/or exchangeable for existing ordinary shares for the benefit of EDF Pulse Holding and EPIC Bpifrance and, if applicable, other investors
+
+Grenoble, May 17, 2024 - 10:00 pm CEST - McPhy Energy, a specialist in low-carbon hydrogen production and distribution equipment (electrolyzers and refuelling stations) (the ""Company""), today announced the availability of additional information regarding a contemplated issue of bonds convertible into new shares and/or exchangeable for existing shares (OCEANEs), maturing 5 years after their issue (the ""Convertible Bonds"") to the benefit of EDF Pulse Holding (""EDF Pulse"") and EPIC Bpifrance, acting on behalf of the French State under the French Tech Souveraineté Agreement (Convention French Tech Souveraineté) dated December 11, 2020 (""French Tech Souveraineté""), for a total nominal amount of €30 million (the ""Issue""), which is the subject of resolutions submitted to the approval of the Shareholders General Meeting to be held on May 30, 2024. The Company will consider the possibility of issuing an additional amount to other investors depending on market conditions.
+
+As previously disclosed, the key financial terms of the Convertible Bonds would be as follows:
+
+The net proceeds of the Issue will enable the Company to finance its working capital requirements and general cash needs, in particular the development of its commercial activity, industrial facilities and its research and development activity.
+
+Additional information relating to the Issue concerns in particular the terms and conditions of the Convertible Bonds, the legal framework of the Issue, the risk factors associated with Issue and the Company, and the potential dilution resulting from the Issue for shareholders.
+
+This information is available on the Company's website under the sections ""General Meetings - CGM 30 May 2024"" (link: https://mcphy-finance.com/index.php/en/general-meetings/cgm-30-may-2024) and ""Financial publications - Financial transactions"" (link: https://mcphy-finance.com/index.php/en/financial-publications/financial-operations/financial-transactions).
+
+This press release does not constitute an offer to subscribe or a solicitation to buy, subscribe or sell any securities to any person in the United States, Australia or Canada or in any other jurisdiction in which such an issue would be unlawful, and the Issue does not constitute an offer to the public in any jurisdiction, including France, to persons other than qualified investors.
+
+________________________________
+
+ABOUT MCPHY
+
+Specialized in hydrogen production and distribution equipment, McPhy is contributing to the global deployment of low carbon hydrogen as a solution for energy transition. With its complete range of products dedicated to the industrial, mobility and energy sectors, McPhy offers its customers turnkey solutions adapted to their applications in industrial raw material supply, recharging of fuel cell electric vehicles or storage and recovery of electricity surplus based on renewable sources. As designer, manufacturer and integrator of hydrogen equipment since 2008, McPhy has three development, engineering and production centers in Europe (France, Italy, Germany). Its international subsidiaries provide broad commercial coverage for its innovative hydrogen solutions. McPhy is listed on Euronext Paris (compartment C, ISIN code: FR0011742329, MCPHY).
+
+EPIC Bpifrance acting on behalf of the French State under the French Tech Souveraineté Agreement dated 11 December 2020.
+
+Press release published by the Company on March 7, 2024, available on the Company's website (www.mcphy-finance.com) under section ""Financial publications - Press releases"".
+
+In French version. English version will be made available as well shortly.",finanzen.at,news,finanzen.at,,0.8117647058823529,453672441,1,https://www.finanzen.at/Images/FacebookIcon.jpg,
+2024-05-359785646,eng,False,2024-05-17,20:02:23,2024-05-17T20:02:23Z,2024-05-17T20:00:05Z,news,0.0,https://www.marketscreener.com/quote/stock/MCPHY-ENERGY-15933338/news/McPhy-Energy-is-making-available-information-concerning-a-contemplated-issue-of-bonds-convertible-in-46762930/,McPhy Energy is making available information concerning a contemplated issue of bonds convertible into new ordinary shares and/or exchangeable for existing ordinary shares,"McPhy Energy is making available information concerning a contemplated issue of bonds convertible into new ordinary shares and/or exchangeable for existing ordinary shares for the benefit of EDF Pulse Holding and EPIC Bpifrance and, if applicable, other investors
+
+Grenoble, May 17, 2024 - 10:00 pm CEST - McPhy Energy, a specialist in low-carbon hydrogen production and distribution equipment (electrolyzers and refuelling stations) (the ""Company""), today announced the availability of additional information regarding a contemplated issue of bonds convertible into new shares and/or exchangeable for existing shares (OCEANEs), maturing 5 years after their issue (the ""Convertible Bonds"") to the benefit of EDF Pulse Holding (""EDF Pulse"") and EPIC Bpifrance, acting on behalf of the French State under the French Tech Souveraineté Agreement (Convention French Tech Souveraineté) dated December 11, 2020 (""French Tech Souveraineté""), for a total nominal amount of €30 million (the ""Issue""), which is the subject of resolutions submitted to the approval of the Shareholders General Meeting to be held on May 30, 2024. The Company will consider the possibility of issuing an additional amount to other investors depending on market conditions.
+
+As previously disclosed, the key financial terms of the Convertible Bonds would be as follows:
+
+The net proceeds of the Issue will enable the Company to finance its working capital requirements and general cash needs, in particular the development of its commercial activity, industrial facilities and its research and development activity.
+
+Additional information relating to the Issue concerns in particular the terms and conditions of the Convertible Bonds, the legal framework of the Issue, the risk factors associated with Issue and the Company, and the potential dilution resulting from the Issue for shareholders.
+
+This information is available on the Company's website under the sections ""General Meetings - CGM 30 May 2024"" (link: https://mcphy-finance.com/index.php/en/general-meetings/cgm-30-may-2024) and ""Financial publications - Financial transactions"" (link: https://mcphy-finance.com/index.php/en/financial-publications/financial-operations/financial-transactions).
+
+This press release does not constitute an offer to subscribe or a solicitation to buy, subscribe or sell any securities to any person in the United States, Australia or Canada or in any other jurisdiction in which such an issue would be unlawful, and the Issue does not constitute an offer to the public in any jurisdiction, including France, to persons other than qualified investors.
+
+________________________________
+
+ABOUT MCPHY
+
+Specialized in hydrogen production and distribution equipment, McPhy is contributing to the global deployment of low carbon hydrogen as a solution for energy transition. With its complete range of products dedicated to the industrial, mobility and energy sectors, McPhy offers its customers turnkey solutions adapted to their applications in industrial raw material supply, recharging of fuel cell electric vehicles or storage and recovery of electricity surplus based on renewable sources. As designer, manufacturer and integrator of hydrogen equipment since 2008, McPhy has three development, engineering and production centers in Europe (France, Italy, Germany). Its international subsidiaries provide broad commercial coverage for its innovative hydrogen solutions. McPhy is listed on Euronext Paris (compartment C, ISIN code: FR0011742329, MCPHY).
+
+EPIC Bpifrance acting on behalf of the French State under the French Tech Souveraineté Agreement dated 11 December 2020.
+
+Press release published by the Company on March 7, 2024, available on the Company's website (www.mcphy-finance.com) under section ""Financial publications - Press releases"".
+
+In French version. English version will be made available as well shortly.",marketscreener.com,news,Market Screener,,0.8117647058823529,453672143,1,https://www.marketscreener.com/images/twitter_MS_fdblanc.png,
+2024-05-372234174,eng,False,2024-05-29,14:39:17,2024-05-29T14:39:17Z,2024-05-29T14:39:05Z,news,0.0,https://world-nuclear-news.org/Articles/SMR-developers-enlist-French-nuclear-expertise?feed=FullFeed,SMR developers enlist French nuclear expertise : New Nuclear - World Nuclear News,"Thorizon of the Netherlands has signed a cooperation agreement with France's EDF R&D to advance the Thorizon One molten salt reactor design. Meanwhile, Blue Capsule has signed a partnership agreement with the French Alternative Energies & Atomic Energy Commission, from which it was spun off, for the development of its small modular reactor.
+
+Thorizon - a spin-off from NRG, which operates the High Flux Reactor in Petten - is developing a 250 MWt/100 MWe molten salt reactor (MSR), targeted at large industrial customers and utilities. Thorizon aims to construct a pilot reactor system before 2035.
+
+MSRs use molten fluoride salts as primary coolant, at low pressure. They may operate with epithermal or fast neutron spectrums, and with a variety of fuels. Much of the interest today in reviving the MSR concept relates to using thorium (to breed fissile uranium-233), where an initial source of fissile material such as plutonium-239 needs to be provided. There are a number of different MSR design concepts, and a number of interesting challenges in the commercialisation of many, especially with thorium.
+
+The molten salt fuel adopted by Thorizon uses a combination of long-lived elements from reprocessed used nuclear fuel and thorium. The reactor will be able to recycle long-lived waste from existing nuclear facilities. The Thorizon One concept is unique in that the core is composed of a set of cartridges that is replaced every five to ten years. This, the company says, overcomes two molten salt design obstacles: material corrosion and handling of used fuel volumes.
+
+Under the new agreement, EDF R&D will review Thorizon's neutronic core calculations and conduct scenario analyses to determine how the Thorizon One could help to close the fuel cycle in the European reactor fleet.
+
+Thorizon said it will ""benefit from EDF's expertise as the French leader in electricity production, and in particular from the recognised skills of its R&D researchers"".
+
+""The R&D team covers all disciplines from neutronics and fuel to safety and construction,"" said Bernard Salha, EDF R&D Director and EDF Group Chief Technical Officer. ""We are actively supporting several start-ups in the France 2030 programme. The cartridge-based approach of Thorizon is interesting and promising.""
+
+""It is a pleasure to work with the EDF team which has more experience in nuclear than any company across the globe,"" added Thorizon CEO Kiki Lauwers. ""Thanks to EDF R&D, start-ups like us benefit from access to unique industry experts that can very quickly spot the strengths and areas for improvements in our design. We hope we can continue to work with the EDF R&D team on the realisation of our technology in the future. We believe all solutions are needed to empower the energy transition and the Thorizon One can be a great compliment to the existing and planned nuclear fleet.""
+
+Horizon says its ambition is to develop an MSR that ""can be realised rapidly and smartly, is 'walk-away' safe, and takes a first step towards circularity by using long-lived nuclear waste as a fuel source"". The company aims to build a non-nuclear molten salt demonstrator in the short-term and finalise the detailed design to start building a first-of-a-kind Thorizon One reactor by 2030.
+
+Decarbonising industry
+
+Blue Capsule - a spin-off from France's Alternative Energies & Atomic Energy Commission (CEA) - has announced the signing of a partnership agreement with the CEA for the development of its small modular reactor (SMR) that will supply heat and power to industry.
+
+Aix-en-Provence-based Blue Capsule is developing a sodium-cooled, high-temperature SMR which can provide 150 MW of heat at 700°C, along with high-temperature steam and electricity. The company aims to decarbonise industrial sites used for ammonia and soda ash production, with subterranean capsules co-located onsite, close to demand.
+
+Under the new agreement - with financial support from French public investment bank Bpifrance - CEA's support for Blue Capsule will extend to fields such as equipment and components, materials, calculation codes and TRISO-based fuel.
+
+""France's leadership in the fields of nuclear energy and low-carbon solutions is creating big opportunities for industry right across the country,"" said Blue Capsule's reactor architect Domnin Erard. ""And for Blue Capsule, collaboration with the French nuclear sector is front and centre of our strategy.
+
+""This vital partnership with the CEA means that Blue Capsule benefits from world-class expertise across the board. It lays the foundations for our future industrial cooperation with the French nuclear supply chain, for manufacturing and assembling Blue Capsule units.
+
+""It all comes down to cutting industrial CO2 emissions and of course the re-industrialisation of communities in France and beyond. For our part, we'll do everything we can to help achieve that objective.""
+
+Blue Capsule is planning to build a proof-of-concept sodium loop and a non-nuclear prototype by 2030. The company's first-of-a-kind SMR is scheduled for construction by 2035 and is set to be built in France.",world-nuclear-news.org,news,World Nuclear News (WNN),,0.1372549019607843,454689557,3,,
+8153717317,eng,False,2024-05-30,16:36:15,2024-05-30T16:36:15Z,2024-05-30T16:17:38Z,news,0.0,https://www.marketscreener.com/quote/stock/MCPHY-ENERGY-15933338/news/McPhy-Energy-Summary-of-the-Combined-General-Meeting-and-Board-of-Directors-of-McPhy-Energy-of-May-46866523/,"McPhy Energy:  Summary of the Combined General Meeting and Board of Directors of McPhy Energy of May 30, 2024","Grenoble, May 30, 2024 - 6:15 pm CEST - McPhy Energy (the ""Company"") announces that the Combined General Meeting of its shareholders held today (the ""General Meeting""), under the chairmanship of its Chairman of the Board of Directors (the ""Board""), approved all the resolutions submitted to it and in particular:
+
+The General Meeting approved the Company's financial statements and the related allocation of net income, as well as the Group's consolidated financial statements for the year ended December 31, 2023.
+
+The General Meeting also approved:
+
+The General Meeting gave the Board full powers to transfer the market for the Company's shares from the regulated Euronext Paris market (Compartment C) to the organized multilateral trading facility Euronext Growth Paris. The Board decided today to implement this transfer. For further details, please refer to the related press release also published today (https://mcphy-finance.com/index.php/en/financial-publications/press-releases).
+
+The General Meeting also approved the renewal of the share buy-back program, and authorized the Board to cancel some or all of the Company's treasury shares, within the limits set by the General Meeting. The Board also decided today to implement this program.
+
+The General Meeting adopted the resolutions relating to the proposed issues of bonds convertible into new ordinary shares and/or exchangeable for existing ordinary shares reserved to EDF Pulse Holding and EPIC Bpifrance, acting on behalf of the French State under the ""French Tech Souveraineté Agreement"" dated December 11, 2020 and, as the case may be, other investors qualifying as per the categories defined in the 29 resolution of the General Meeting (the ""Issue"").
+
+The Board today, implementing the delegations thus granted by the General Meeting, decided to approve the principle of the Bond Issue and to sub-delegate its authority to the Chief Executive Officer, in particular for the purpose of deciding to proceed with the Issue. It is specified that the Issue remains subject to the approval by the Autorité des marchés financiers of the prospectus relating to the application for admission to trading of the new shares to be issued on conversion of the bonds on the regulated market of Euronext in Paris.
+
+The Company's shareholders are also invited to regularly consult the information relating to the Issue published on the Company's website, in particular in the ""Financial Operations"" section (https://mcphy-finance.com/index.php/en/financial-publications/financial-operations/financial-transactions).
+
+In addition, the General Meeting approved:
+
+The results of voting on the resolutions will be available on the Company's website.
+
+The Company would like to thank all shareholders present, represented or voting by post or internet for their commitment and support.
+
+ABOUT MCPHY
+
+Specialized in hydrogen production and distribution equipment, McPhy is contributing to the global deployment of low carbon hydrogen as a solution for energy transition. With its complete range of products dedicated to the industrial, mobility and energy sectors, McPhy offers its customers turnkey solutions adapted to their applications in industrial raw material supply, recharging of fuel cell electric vehicles or storage and recovery of electricity surplus based on renewable sources. As designer, manufacturer and integrator of hydrogen equipment since 2008, McPhy has three development, engineering and production centers in Europe (France, Italy, Germany). Its international subsidiaries provide broad commercial coverage for its innovative hydrogen solutions. McPhy is listed on Euronext Paris (compartment C, ISIN code: FR0011742329, MCPHY).
+
+The General Meeting also approved the ratification of his co-optation by the Board in April 2024.
+
+This appointment is subject to and as from the completion of the issue of the convertible bonds and the related subscription to it by EDF Pulse Holding. Please refer to point 5 below.
+
+Please also refer to the description of the Company's share buyback program, as published in the 2023 Universal Registration Document and made available to the General Meeting. This description is available on the Company's website.
+
+For further details, please refer to the Company's press releases on this subject, as well as to the additional information made available at the General Meeting. All this information is available on the Company's website.",marketscreener.com,news,Market Screener,,0.4509803921568627,454782975,2,,
+8153717317,eng,False,2024-05-30,16:36:15,2024-05-30T16:36:15Z,2024-05-30T16:17:38Z,news,0.0,https://www.marketscreener.com/quote/stock/MCPHY-ENERGY-15933338/news/McPhy-Energy-Summary-of-the-Combined-General-Meeting-and-Board-of-Directors-of-McPhy-Energy-of-May-46866523/,"McPhy Energy:  Summary of the Combined General Meeting and Board of Directors of McPhy Energy of May 30, 2024","Grenoble, May 30, 2024 - 6:15 pm CEST - McPhy Energy (the ""Company"") announces that the Combined General Meeting of its shareholders held today (the ""General Meeting""), under the chairmanship of its Chairman of the Board of Directors (the ""Board""), approved all the resolutions submitted to it and in particular:
+
+The General Meeting approved the Company's financial statements and the related allocation of net income, as well as the Group's consolidated financial statements for the year ended December 31, 2023.
+
+The General Meeting also approved:
+
+The General Meeting gave the Board full powers to transfer the market for the Company's shares from the regulated Euronext Paris market (Compartment C) to the organized multilateral trading facility Euronext Growth Paris. The Board decided today to implement this transfer. For further details, please refer to the related press release also published today (https://mcphy-finance.com/index.php/en/financial-publications/press-releases).
+
+The General Meeting also approved the renewal of the share buy-back program, and authorized the Board to cancel some or all of the Company's treasury shares, within the limits set by the General Meeting. The Board also decided today to implement this program.
+
+The General Meeting adopted the resolutions relating to the proposed issues of bonds convertible into new ordinary shares and/or exchangeable for existing ordinary shares reserved to EDF Pulse Holding and EPIC Bpifrance, acting on behalf of the French State under the ""French Tech Souveraineté Agreement"" dated December 11, 2020 and, as the case may be, other investors qualifying as per the categories defined in the 29 resolution of the General Meeting (the ""Issue"").
+
+The Board today, implementing the delegations thus granted by the General Meeting, decided to approve the principle of the Bond Issue and to sub-delegate its authority to the Chief Executive Officer, in particular for the purpose of deciding to proceed with the Issue. It is specified that the Issue remains subject to the approval by the Autorité des marchés financiers of the prospectus relating to the application for admission to trading of the new shares to be issued on conversion of the bonds on the regulated market of Euronext in Paris.
+
+The Company's shareholders are also invited to regularly consult the information relating to the Issue published on the Company's website, in particular in the ""Financial Operations"" section (https://mcphy-finance.com/index.php/en/financial-publications/financial-operations/financial-transactions).
+
+In addition, the General Meeting approved:
+
+The results of voting on the resolutions will be available on the Company's website.
+
+The Company would like to thank all shareholders present, represented or voting by post or internet for their commitment and support.
+
+ABOUT MCPHY
+
+Specialized in hydrogen production and distribution equipment, McPhy is contributing to the global deployment of low carbon hydrogen as a solution for energy transition. With its complete range of products dedicated to the industrial, mobility and energy sectors, McPhy offers its customers turnkey solutions adapted to their applications in industrial raw material supply, recharging of fuel cell electric vehicles or storage and recovery of electricity surplus based on renewable sources. As designer, manufacturer and integrator of hydrogen equipment since 2008, McPhy has three development, engineering and production centers in Europe (France, Italy, Germany). Its international subsidiaries provide broad commercial coverage for its innovative hydrogen solutions. McPhy is listed on Euronext Paris (compartment C, ISIN code: FR0011742329, MCPHY).
+
+The General Meeting also approved the ratification of his co-optation by the Board in April 2024.
+
+This appointment is subject to and as from the completion of the issue of the convertible bonds and the related subscription to it by EDF Pulse Holding. Please refer to point 5 below.
+
+Please also refer to the description of the Company's share buyback program, as published in the 2023 Universal Registration Document and made available to the General Meeting. This description is available on the Company's website.
+
+For further details, please refer to the Company's press releases on this subject, as well as to the additional information made available at the General Meeting. All this information is available on the Company's website.",marketscreener.com,news,Market Screener,,0.4509803921568627,454782975,2,,
+8153717317,eng,False,2024-05-30,16:36:15,2024-05-30T16:36:15Z,2024-05-30T16:17:38Z,news,0.0,https://www.marketscreener.com/quote/stock/MCPHY-ENERGY-15933338/news/McPhy-Energy-Summary-of-the-Combined-General-Meeting-and-Board-of-Directors-of-McPhy-Energy-of-May-46866523/,"McPhy Energy:  Summary of the Combined General Meeting and Board of Directors of McPhy Energy of May 30, 2024","Grenoble, May 30, 2024 - 6:15 pm CEST - McPhy Energy (the ""Company"") announces that the Combined General Meeting of its shareholders held today (the ""General Meeting""), under the chairmanship of its Chairman of the Board of Directors (the ""Board""), approved all the resolutions submitted to it and in particular:
+
+The General Meeting approved the Company's financial statements and the related allocation of net income, as well as the Group's consolidated financial statements for the year ended December 31, 2023.
+
+The General Meeting also approved:
+
+The General Meeting gave the Board full powers to transfer the market for the Company's shares from the regulated Euronext Paris market (Compartment C) to the organized multilateral trading facility Euronext Growth Paris. The Board decided today to implement this transfer. For further details, please refer to the related press release also published today (https://mcphy-finance.com/index.php/en/financial-publications/press-releases).
+
+The General Meeting also approved the renewal of the share buy-back program, and authorized the Board to cancel some or all of the Company's treasury shares, within the limits set by the General Meeting. The Board also decided today to implement this program.
+
+The General Meeting adopted the resolutions relating to the proposed issues of bonds convertible into new ordinary shares and/or exchangeable for existing ordinary shares reserved to EDF Pulse Holding and EPIC Bpifrance, acting on behalf of the French State under the ""French Tech Souveraineté Agreement"" dated December 11, 2020 and, as the case may be, other investors qualifying as per the categories defined in the 29 resolution of the General Meeting (the ""Issue"").
+
+The Board today, implementing the delegations thus granted by the General Meeting, decided to approve the principle of the Bond Issue and to sub-delegate its authority to the Chief Executive Officer, in particular for the purpose of deciding to proceed with the Issue. It is specified that the Issue remains subject to the approval by the Autorité des marchés financiers of the prospectus relating to the application for admission to trading of the new shares to be issued on conversion of the bonds on the regulated market of Euronext in Paris.
+
+The Company's shareholders are also invited to regularly consult the information relating to the Issue published on the Company's website, in particular in the ""Financial Operations"" section (https://mcphy-finance.com/index.php/en/financial-publications/financial-operations/financial-transactions).
+
+In addition, the General Meeting approved:
+
+The results of voting on the resolutions will be available on the Company's website.
+
+The Company would like to thank all shareholders present, represented or voting by post or internet for their commitment and support.
+
+ABOUT MCPHY
+
+Specialized in hydrogen production and distribution equipment, McPhy is contributing to the global deployment of low carbon hydrogen as a solution for energy transition. With its complete range of products dedicated to the industrial, mobility and energy sectors, McPhy offers its customers turnkey solutions adapted to their applications in industrial raw material supply, recharging of fuel cell electric vehicles or storage and recovery of electricity surplus based on renewable sources. As designer, manufacturer and integrator of hydrogen equipment since 2008, McPhy has three development, engineering and production centers in Europe (France, Italy, Germany). Its international subsidiaries provide broad commercial coverage for its innovative hydrogen solutions. McPhy is listed on Euronext Paris (compartment C, ISIN code: FR0011742329, MCPHY).
+
+The General Meeting also approved the ratification of his co-optation by the Board in April 2024.
+
+This appointment is subject to and as from the completion of the issue of the convertible bonds and the related subscription to it by EDF Pulse Holding. Please refer to point 5 below.
+
+Please also refer to the description of the Company's share buyback program, as published in the 2023 Universal Registration Document and made available to the General Meeting. This description is available on the Company's website.
+
+For further details, please refer to the Company's press releases on this subject, as well as to the additional information made available at the General Meeting. All this information is available on the Company's website.",marketscreener.com,news,Market Screener,,0.4509803921568627,454782975,3,,

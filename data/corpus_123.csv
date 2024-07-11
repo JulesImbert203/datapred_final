@@ -1,0 +1,620 @@
+uri,lang,isDuplicate,date,time,dateTime,dateTimePub,dataType,sim,url,title,body,source_uri,source_dataType,source_title,authors,sentiment,wgt,relevance,image,eventUri
+8150356885,eng,False,2024-05-28,18:44:53,2024-05-28T18:44:53Z,2024-05-28T18:44:04Z,news,0.0,https://www.evwind.es/2024/05/28/prices-rise-in-european-electricity-markets-due-to-gas-and-co2-while-photovoltaic-energy-continues-to-set-records/98743,Continue reading →,"In the week of May 20, prices in the main European electricity markets rose following increases in gas and CO prices. TTF gas and CO futures reached the highest values since the first half of December 2023 and January 2024, respectively. Even so, most markets registered negative hourly prices, primarily over the weekend. Solar photovoltaic energy set all?time production records again in Spain, Portugal and Italy. Wind energy production declined in most markets.
+
+In the week of May 20, solar energy production increased in most major European electricity markets compared to the previous week. The Portuguese market registered the largest increase, 27%, followed by increases of 18% in the French market and 13% in the Spanish market. The Italian market registered the smallest increase, 7.6% in this case. The exception was the German market, where solar energy production decreased by 7.5%, reversing the upward trend of the last four weeks.
+
+In the Spanish, Portuguese and Italian markets, solar photovoltaic energy set historical production records. On Friday, May 24, the Spanish and Portuguese markets registered their highest daily production ever, 196 GWh and 21 GWh, respectively. The Italian market registered the production record on Sunday, May 26, with a generation of 142 GWh using this technology.
+
+In the last week of May, according to AleaSoft Energy Forecasting's solar energy production forecasts, it will increase in Germany and Spain. On the other hand, solar energy production will decrease in Italy.
+
+Source: Prepared by AleaSoft Energy Forecasting using data from ENTSO-E, RTE, REN, REE and TERNA.
+
+Source: Prepared by AleaSoft Energy Forecasting using data from ENTSO-E, RTE, REN, REE and TERNA.
+
+In the fourth week of May, wind energy production declined in most major European markets compared to the previous week, reversing the upward trend of the previous week. The decreases were 49% in the German market, 41% in the Portuguese market and 30% in the Spanish market. The exceptions were the Italian and French markets, where wind energy generation increased by 62% and 10%, respectively. Both markets reversed the downward trend they had shown in the last two weeks in the case of Italy and in the last four weeks in the case of France.
+
+In the week of May 27, according to AleaSoft Energy Forecasting's wind energy production forecasts, production using this technology will increase in Spain, France and Portugal. In Italy and Germany, it will decrease.
+
+Source: Prepared by AleaSoft Energy Forecasting using data from ENTSO-E, RTE, REN, REE and TERNA.
+
+In the week of May 20, electricity demand decreased in most major European electricity markets compared to the previous week. The declines were favored by lower labor hours due to the May 20 holiday, Pentecost Monday, celebrated in Germany, Belgium, France and some regions of Spain. The German market had the largest decline, 6.5%, followed by a 4.6% drop in the Belgian market and a 3.3% drop in the Portuguese market. The French and Spanish markets registered the smallest declines, 0.8% and 0.7%, respectively. However, in the Netherlands, Italy and Great Britain, demand increased. In the Dutch and British markets, demand rose for the second consecutive week, in this case by 3.7% and 0.4%, respectively. In Italy, the increase was 1.5%, registering rises for the third consecutive week.
+
+During the week of May 20, average temperatures had heterogeneous behavior. In the Iberian Peninsula, Italy and France, average temperatures increased between 0.1 °C and 1.1 °C. On the other hand, in Germany, Belgium, Great Britain and the Netherlands, average temperatures decreased between 0.6 °C and 1.8 °C.
+
+For the last week of May, according to AleaSoft Energy Forecasting's demand forecasts, it will increase in the markets of Belgium, Germany, Spain, France and Italy, while it will decrease in the markets of Great Britain, Portugal and the Netherlands.
+
+Source: Prepared by AleaSoft Energy Forecasting using data from ENTSO-E, RTE, REN, REE, TERNA, National Grid and ELIA.
+
+In the fourth week of May, prices in most major European electricity markets increased between Monday, May 20, and Friday, May 24. Although prices fell over the weekend, the weekly averages of all analyzed markets rose compared to the previous week. The Nord Pool market of the Nordic countries reached the highest percentage price increase, 87%. In contrast, the IPEX market of Italy and the N2EX market of the United Kingdom registered the smallest percentage increases, 0.1% and 9.7%, respectively. In the rest of the markets analyzed at AleaSoft Energy Forecasting, prices rose between 30% in the EPEX SPOT market of Belgium and 71% in the MIBEL market of Portugal.
+
+In the fourth week of May, weekly averages exceeded €45/MWh in most analyzed European electricity markets. The exceptions were the Nordic and French markets, with averages of €24.59/MWh and €36.50/MWh, respectively. The Italian market registered the highest weekly average, €96.18/MWh. In the rest of analyzed markets, prices ranged from €46.40/MWh in the Spanish market to €89.78/MWh in the British market.
+
+Regarding hourly prices, most analyzed European markets registered negative prices on Sunday, May 26. The exceptions were the British and Italian markets, with no negative prices in the fourth week of May. The German, Belgian and Dutch markets also reached negative prices on May 20 and the last two markets, on May 22. In the case of the Nordic market, there were negative prices on May 25 and 26.
+
+On Sunday, May 26, from 14:00 to 15:00, the German, Belgian, French and Dutch markets reached prices below ?€23/MWh. The Dutch market registered the lowest hourly price of the fourth week of May, ?€23.89/MWh.
+
+On the other hand, on Monday, May 27, from 20:00 to 21:00, the German market reached a price of €221.46/MWh, the highest price since early December 2023 in this market.
+
+During the week of May 20, the rise in the average price of gas and CO emission allowances had an upward influence on European electricity market prices. In addition, in markets such as Germany, Spain or Portugal, wind energy production decreased in the fourth week of May. In the case of the British, Italian and Dutch markets, electricity demand increased, contributing to weekly prices being higher than in the previous week.
+
+AleaSoft Energy Forecasting's price forecasts indicate that in some European electricity markets, such as the French, Spanish or Portuguese markets, prices might fall in the last week of May, influenced by the increase in wind energy production in these markets. On the other hand, in other markets such as Germany or Italy, where wind energy production might decrease, prices might continue to increase.
+
+Source: Prepared by AleaSoft Energy Forecasting using data from OMIE, EPEX SPOT, Nord Pool and GME.
+
+Brent oil futures for the Front?Month in the ICE market registered their weekly maximum settlement price, $83.71/bbl, on Monday, May 20. However, prices declined during the first four sessions of the fourth week of May. As a result, on Thursday, May 23, these futures registered their weekly minimum settlement price, $81.36/bbl. According to data analyzed at AleaSoft Energy Forecasting, this price was 2.3% lower than the previous Thursday and the lowest since the first half of February. On Friday, May 24, there was a slight recovery and the settlement price was $82.12/bbl.
+
+In the fourth week of May, expectations that interest rates will remain high in the United States for longer due to inflation exerted a downward influence on Brent oil futures prices. In addition, US oil reserves increased.
+
+As for TTF gas futures in the ICE market for the Front?Month, in the fourth week of May they continued with the price increases initiated in the last sessions of the previous week. On Monday, May 20, they registered their weekly minimum settlement price, €31.77/MWh, which was already 7.4% higher than the previous Monday. Price rises continued until Thursday, May 23. On that day, these futures reached their weekly maximum settlement price, €35.83/MWh. According to data analyzed at AleaSoft Energy Forecasting, this price was 18% higher than the previous Thursday and the highest since the first half of December 2023. On Friday, May 24, after a 4.8% decrease, the settlement price was €34.11/MWh. This was still 11% higher than the previous Friday.
+
+In the fourth week of May, forecasts of higher demand for air conditioning, combined with lower supply, drove prices higher. Forecasts of high temperatures for the coming summer and high demand for liquefied natural gas from the Asian market might continue to exert their upward influence on TTF gas futures prices. However, European reserve levels remain high. On the other hand, news that Russian gas supplies to Austria might end this summer due to legal problems in making payments also contributed to the price increase in the fourth week of May.
+
+As for CO emission allowance futures in the EEX market for the reference contract of December 2024, they reached their weekly minimum settlement price, €74.22/t, on Monday, May 20. However, this price was already 5.0% higher than the last session of the previous week and 6.3% higher than the previous Monday. On Tuesday, May 21, these futures registered their weekly maximum settlement price, €76.25/t. According to data analyzed at AleaSoft Energy Forecasting, this price was 8.6% higher than the previous Tuesday and the highest since the first half of January. Subsequently, prices started a slight downward trend, although they remained above €75/t for the rest of the fourth week of May. On Friday, May 24, the settlement price was €75.62/t, still 7.0% higher than the previous Friday.
+
+Source: Prepared by AleaSoft Energy Forecasting using data from ICE and EEX.
+
+AleaSoft Energy Forecasting and AleaGreen will hold the next webinar in their monthly webinar series on Thursday, June 13. In addition to the evolution of European energy markets and the prospects in the second half of 2024, the webinar will analyze the growth opportunities in the renewable sector, the regulatory and design challenges of the wholesale market and the current affairs of the PPA market in Spain. This webinar will feature, for the sixth time, guest speakers from Engie Spain.",evwind.es,news,AEEolica,,0.2313725490196079,454617893,34,,
+8141982805,eng,False,2024-05-23,10:55:02,2024-05-23T10:55:02Z,2024-05-23T10:54:30Z,news,0.4627451002597809,https://tass.com/economy/1792195,"Gas price in Europe surpasses $400, first time since December 27, 2023","At the same time, the price of gas in Europe began to gradually rise after the news of the death of Iranian President Ebrahim Raisi
+
+MOSCOW, May 23. /TASS/. The price of gas in Europe surpassed $400 per 1,000 cubic meters for the first time since December 27, 2023, according to data from London's ICE.
+
+The price of June futures at the TTF hub in the Netherlands increased to around $401 per 1,000 cubic meters or 35.76 euro per MWh (based on the current exchange rate between euro and dollar, ICE prices are presented in euro per MWh).
+
+The share of wind power in EU electricity generation in May reached only 14%, which is the lowest since September 2023. In addition, repairs at gas facilities in Norway - this country is currently the main gas supplier to Europe with a 30% share - is also putting pressure on gas prices.
+
+At the same time, the price of gas in Europe began to gradually rise after the news of the death of Iranian President Ebrahim Raisi.
+
+The heating season in Europe ended on March 31, 2024. During its145 days, the EU countries withdrew 51.6 bln cubic meters of gas from storage facilities. This period ended with record reserves volume of 58.34%.
+
+Currently, European UGS facilities are 67.53% full (13.69 percentage points higher than the average for this date over the past five years) with 74 bln cubic meters of gas.",tass.com,news,TASS,,-0.09019607843137256,454157702,1,https://tass.com/img/blocks/common/tass_logo_share_ru.png,eng-9585860
+8139170614,eng,False,2024-05-21,19:47:15,2024-05-21T19:47:15Z,2024-05-21T19:46:19Z,news,0.0,https://www.evwind.es/2024/05/21/solar-photovoltaic-energy-set-a-daily-production-record-in-germany-in-the-third-week-of-may/98609,Continue reading →,"On May 14, in Germany, solar photovoltaic energy registered the highest production in the history of this market, exceeding 400 GWh. Wind energy production increased in most markets during the third week of May, which, together with lower gas and CO prices than the previous week, contributed to the fall in prices in most major European electricity markets compared to the previous week. Most markets registered hours with negative prices.
+
+In the week of May 13, solar energy production decreased in most major European electricity markets compared to the previous week. The Portuguese market registered the largest decline, 26%, while the Spanish market registered the smallest decline, 3.0%, in both cases reversing the upward trend of the previous week. The exception was the German market, where solar energy production increased for the fourth consecutive week, this time by 1.3%.
+
+The German market broke the record for photovoltaic energy production on May 14 with 404 GWh generated using this technology.
+
+In the week of May 20, according to AleaSoft Energy Forecasting's solar energy production forecasts, there will be a downward trend in Germany and Italy. On the other hand, in Spain, solar energy production will increase.
+
+Source: Prepared by AleaSoft Energy Forecasting using data from ENTSO-E, RTE, REN, REE and TERNA.
+
+Source: Prepared by AleaSoft Energy Forecasting using data from ENTSO-E, RTE, REN, REE and TERNA.
+
+In the week of May 13, wind energy production increased in most major European markets compared to the previous week, reversing the downward trend of the previous week. Increases ranged from 14% in the Spanish market to 224% in the German market. The exceptions were the Italian and French markets, which registered decreases in wind energy generation of 42% and 34%, respectively. The French market continued its downward trend for the fourth consecutive week.
+
+In the week of May 20, according to AleaSoft Energy Forecasting's wind energy production forecasts, it will increase in France and Italy and it will decrease in Germany and the Iberian Peninsula.
+
+Source: Prepared by AleaSoft Energy Forecasting using data from ENTSO-E, RTE, REN, REE and TERNA.
+
+In the week of May 13, electricity demand increased in all major European electricity markets compared to the previous week, reversing the downward trend registered in most markets in the previous week. In the markets of Germany, Belgium, France and the Netherlands, the recovery in demand after the celebration of the Ascension Day in the previous week, on May 9, favored the increases. Something similar happened in Great Britain that celebrated the ""Early May bank holiday"" on Monday, May 6. In the German, Spanish and Italian markets, demand increased for the second consecutive week. The Netherlands registered the largest increase in demand, 11%. On the other hand, the Spanish market registered the smallest increase, 0.5%. Madrid celebrated the San Isidro Labrador festivities on May 15, which limited the weekly increase in demand in Spain.
+
+During the third week of May, average temperatures increased in most analyzed markets, ranging from 0.3 °C in France to 3.6 °C in the Netherlands. On the other hand, in Great Britain and the Iberian Peninsula, average temperatures decreased from 0.3 °C to 1.9 °C.
+
+For the week of May 20, according to AleaSoft Energy Forecasting's demand forecasts, the upward trend will reverse and demand will fall in Germany, Portugal, the Netherlands, France, Belgium, Spain and Great Britain. Demand will increase only in Italy.
+
+Source: Prepared by AleaSoft Energy Forecasting using data from ENTSO-E, RTE, REN, REE, TERNA, National Grid and ELIA.
+
+In the third week of May, prices in most major European electricity markets registered an upward trend between Tuesday, May 14, and Friday, May 17, reaching the highest daily price of the week on that day. However, this peak was lower than the previous week's peak. Despite the aforementioned upward trend, weekly prices fell compared to the previous week. The exceptions were the N2EX market of the United Kingdom and the IPEX market of Italy, with increases of 0.2% and 5.8%, respectively. The Nord Pool market of the Nordic countries reached the largest percentage price decline, 67%. In contrast, the EPEX SPOT market of Belgium registered the smallest percentage decline, 6.9%. In the other markets analyzed at AleaSoft Energy Forecasting, prices fell between 11% in the EPEX SPOT market of the Netherlands and the MIBEL market of Spain and 27% in the EPEX SPOT market of Germany.
+
+In the third week of May, weekly averages were below €50/MWh in most analyzed European electricity markets. The exceptions were the Dutch, British and Italian markets, with averages of €55.80/MWh, €81.80/MWh and €96.12/MWh, respectively. In contrast, the Nordic market registered the lowest weekly average, €13.18/MWh. In the rest of the analyzed markets, prices ranged from €23.68/MWh in the French market to €49.13/MWh in the German market.
+
+Regarding hourly prices, most analyzed European markets registered negative prices on May 14 and 19. The exceptions were the British and Italian markets, which had no negative prices in the third week of May. On the other hand, the German, Belgian, French, Dutch and Nordic markets also had negative prices on May 18 and the first four markets on this list, on May 13. In addition, the Dutch market registered negative prices on May 15, while the German and Nordic markets had negative prices on May 15 and 16. In the third week of May, the Dutch market registered the lowest hourly price again, ?€80.00/MWh, on Sunday, May 19, from 13:00 to 14:00.
+
+During the week of May 13, the fall in the average price of gas and CO emission allowances and the increase in wind energy production in most analyzed markets had a downward influence on European electricity market prices. However, in the Italian market, wind and solar energy production fell, contributing to the price increase in this market.
+
+AleaSoft Energy Forecasting's price forecasts indicate that prices in some European electricity markets, such as Germany, Spain, the Netherlands or Portugal, might increase in the fourth week of May, influenced by the decrease in wind energy production. In the rest of the markets, prices will be slightly lower than the previous week.
+
+Source: Prepared by AleaSoft Energy Forecasting using data from OMIE, EPEX SPOT, Nord Pool and GME.
+
+Settlement prices of Brent oil futures for the Front?Month in the ICE market continued below $85/bbl during the third week of May. On Tuesday, May 14, these futures registered their weekly minimum settlement price, $82.38/bbl. According to data analyzed at AleaSoft Energy Forecasting, this price was 0.9% lower than the previous Tuesday and the lowest since March 13. Subsequently, prices began an upward trend. As a result, on Friday, May 17, these futures reached their weekly maximum settlement price, $83.98/bbl. This price was 1.4% higher than the previous Friday. For the week as a whole, the average of settlement prices was 0.2% below the previous week's average.
+
+In the third week of May, the release of economic data from China and the United States fueled expectations of demand increases. In addition, US oil reserves declined. On the other hand, the forest fires in Canada caused concern about the possible impact on Canadian production, also contributing to the increase in prices during the week.
+
+As for TTF gas futures in the ICE market for the Front?Month, on Monday, May 13, they continued with the declines of the previous week. On that day they reached their weekly minimum settlement price, €29.58/MWh. According to data analyzed at AleaSoft Energy Forecasting, this price was 8.0% lower than the previous Monday and the lowest since May 2. Subsequently, settlement prices recovered. As a consequence of the price increases of the third week of May, on Friday, May 17, these futures reached their weekly maximum settlement price, €30.77/MWh. This price was 2.5% higher than the previous Friday. However, despite the increases registered during the week, the weekly average of settlement prices was lower than that of the previous week.
+
+In the third week of May, planned maintenance work and the corresponding decrease in gas flow from Norway starting the following week, as well as forecasts of lower renewable energy production in Europe, which would cause an increase in gas demand for electricity generation, drove TTF gas futures prices higher. Higher Asian demand for liquefied natural gas also contributed to the price increases.
+
+As for CO emission allowances futures in the EEX market for the reference contract of December 2024, settlement prices remained around €70/t during the third week of May. On Wednesday, May 15, these futures reached their weekly minimum settlement price, €69.46/t. According to data analyzed at AleaSoft Energy Forecasting, this price was 3.1% lower than the previous Wednesday and the lowest since the beginning of May. In contrast, on Friday, May 17, these futures registered their weekly maximum settlement price, €70.69/t. However, this price was still 1.7% lower than the previous Friday. The weekly average of settlement prices was 3.0% lower than the second week of May.
+
+Source: Prepared by AleaSoft Energy Forecasting using data from ICE and EEX.
+
+The next webinar of the monthly webinar series of AleaSoft Energy Forecasting and AleaGreen will take place on Thursday, June 13. On this occasion, guest speakers from Engie Spain will participate for the sixth time. This webinar will analyze the evolution of European energy markets and the prospects in the second half of 2024, the growth opportunities in the renewable sector, the regulatory and design challenges of the wholesale market and the current affairs of the PPA market in Spain.",evwind.es,news,AEEolica,,0.223529411764706,454016835,51,,
+8138197320,eng,False,2024-05-21,09:08:07,2024-05-21T09:08:07Z,2024-05-21T09:07:18Z,news,0.0,https://www.chemanalyst.com/NewsAndDeals/NewsDetails/european-vinyl-acetate-monomer-prices-to-accelerate-further-in-may-2024-27939,European Vinyl Acetate Monomer Prices to Accelerate Further in May 2024,"Hamburg (Germany): Vinyl Acetate Monomer (VAM) prices have risen in May 2024 in Europe despite a slowdown in demand, driven by supply tightening and stringent cost control strategies. Prices have been rising since January 2024 in Europe, following the renegotiation of gas and energy supply contracts. March 2024 saw significant developments in VAM and other petrochemical markets as downturns eased partially due to increased operation of European crackers and inventory pressures. The VAM market has largely remained bullish, with PVAc demand from adhesives, packaging, and paints gradually recovering, especially in the Netherlands, France, and Italy. However, production statistics indicate that a full recovery to pre-pandemic levels won't occur before 2025, with prices consistently remaining 38% higher than pre-pandemic levels.
+
+European VAM prices, as assessed by ChemAnalyst, moved upwards by USD 10/MT in the second week of May 2024, marking a 23% year-to-date increase. This rise is partly attributed to increased freight charges and safety stocking by European markets to hedge against potential embargoes on methanol supply from the Middle East. However, ChemAnalyst's research concluded that rising freight charges alone do not explain the price movements.
+
+Rising crude and gas prices by the end of February 2024 contributed to increased spot methanol and VAM prices, with inventory pressures and demand support being additional factors. Spot Dutch TTF gas prices were assessed at USD 8.9/MMBtu, which is 3.68 times higher than US gas prices for 2024 spot volumes, yet still 53% lower than the October 2022 spot peak.
+
+Research revealed that VAM derived from gas deliveries at USD 13.36/MMBtu led to increased prices in the acetyls chain, pulling up the intermediate VAM and methanol markets by 77% from January 2023 to March 2023. This spike triggered a reduction in VAM output and demand by nearly 50%, causing a price free fall over the next three months as European suppliers held onto their inventories until June 2023. From January 2024, new gas contracts intensified inventory pressures and continuous downturns forced supply constraints.
+
+In April 2024, despite falling freight prices across the Asia-Europe route, VAM prices remained high, partly due to the continued operation of European plants. A Pricing Analyst at ChemAnalyst identified that US suppliers had margins extending to USD 270-280/MT for methanol and around USD 370-380/MT for VAM production, while European suppliers had significantly lower margins of USD 50-150/MT for methanol and USD 200/MT for VAM. Nevertheless, European VAM margins remained positive this year, contrasting with negative margins the previous year. Supply disruptions in Texas and Louisiana due to hurricanes have affected deliveries to Europe, yet prices have not risen proportionately and are expected to increase by the end of May 2024.
+
+VAM industrial trends and downstream PVAc and end-use industry trend studies suggest that VAM prices are set to ease by the end of the third quarter when gas prices are expected to rise due to heating requirements and annual plant maintenance. Prices are expected to ease off as the intermediate value chain builds up strong inventories.",chemanalyst.com,news,chemanalyst.com,,0.04313725490196085,453978487,1,,
+8127493218,eng,False,2024-05-14,18:17:57,2024-05-14T18:17:57Z,2024-05-14T18:17:26Z,news,0.0,https://www.evwind.es/2024/05/14/photovoltaic-and-wind-power-in-the-second-week-of-may/98474,Continue reading →,"In the second week of May, prices in the main European electricity markets remained at similar levels to those of previous weeks, although the weekly average rose in most of them. The weekly average price fell only in the French market, which registered the lowest value, thus breaking the Iberian market's streak of the lowest prices. Photovoltaic energy reached all?time records in Germany, Spain, France and Portugal. Wind energy production fell and gas and CO prices rose.
+
+In the week of May 6, solar energy production increased in most European markets compared to the previous week. The French market registered the largest increase, 49%, reversing the downward trend of the previous two weeks. The Portuguese and Spanish markets registered increases of 35% and 16%, respectively. The German market had the smallest increase, 9.4%, maintaining an upward trend for the third consecutive week. The Italian market was the exception, with a drop in solar energy production of 2.1%.
+
+During the second week of May, the Portuguese, Spanish, French and German markets broke historical records for daily solar photovoltaic energy production. The Portuguese market broke the production record on Sunday, May 12, with a total generation of nearly 20 GWh. Mainland Spain set the all?time record on Wednesday, May 8, with 181 GWh generated using photovoltaic energy. On the other hand, France set the record on Friday, May 10, with 128 GWh, while Germany set it on Sunday, May 12, with 382 GWh of generation using this technology. The Italian market registered the second highest value in its history, 132 GWh, after the maximum registered on Sunday, May 5, which was 134 GWh.
+
+For the third week of May, according to AleaSoft Energy Forecasting's solar energy production forecasts, it will continue to increase in Germany. However, in Spain and Italy, solar energy production will decrease.
+
+Source: Prepared by AleaSoft Energy Forecasting using data from ENTSO-E, RTE, REN, Red Eléctrica and TERNA.
+
+Source: Prepared by AleaSoft Energy Forecasting using data from ENTSO-E, RTE, REN, Red Eléctrica and TERNA.
+
+In the second week of May, wind energy production decreased in all analyzed European markets compared to the previous week. The German market experienced the largest decrease, 64%, followed by the Portuguese, Spanish and Italian markets, with decreases of 50%, 34% and 27%, respectively. The French market continued to register declines for the third consecutive week, this time by 9.0%.
+
+In the week of May 13, according to AleaSoft Energy Forecasting's wind energy production forecasts, it will increase in the German, Spanish and Portuguese markets. On the other hand, in the French and Italian markets, wind energy production will continue to decline.
+
+Source: Prepared by AleaSoft Energy Forecasting using data from ENTSO-E, RTE, REN, Red Eléctrica and TERNA.
+
+During the week of May 6, electricity demand declined in most major European electricity markets compared to the previous week. The French market registered the largest decline, which was 8.9%, followed by declines in the Netherlands and Great Britain, 7.6% in both markets. These three markets continued the downward trend for the second consecutive week. On the other hand, the Portuguese and Belgian markets had declines of 2.0% in both cases. In the Belgian market, it is the third consecutive week with this trend. Most of the declines in demand are related to the celebration of the Ascension Day on May 9 in Germany, Belgium, France and the Netherlands. The United Kingdom celebrated the Early May bank holiday on Monday, May 6.
+
+On the other hand, the markets of Italy, Spain and Germany registered increases in demand of 6.8%, 1.7% and 0.1%, respectively. The increases in demand in the markets of Italy, Spain and Germany during the second week of May were mainly related to the recovery in demand after the May 1 holiday, International Workers' Day.
+
+On the other hand, the less cold average temperatures registered in a large part of the markets favored the decrease in demand. In Italy, France, Spain, Great Britain and Portugal average temperatures increased between 1.6 °C and 3.8 °C. In Belgium the increase was smaller, 0.9 °C. The Netherlands and Germany were the exception, where average temperatures decreased by 0.3 °C and 2.1 °C, respectively.
+
+For the week of May 13, according to AleaSoft Energy Forecasting's demand forecasts, it will increase in the markets of Germany, Belgium, France, Portugal and Italy. On the other hand, in the markets of the Netherlands, Spain and Great Britain demand will decrease.
+
+Source: Prepared by AleaSoft Energy Forecasting using data from ENTSO-E, RTE, REN, Red Eléctrica, TERNA, National Grid and ELIA.
+
+In the second week of May, prices in the main European electricity markets increased compared to the previous week. Most markets reached the highest prices of the week on Monday, May 6, and then fell back over the course of the week, leaving most days at prices similar to those of previous weeks. The exception to the weekly price rises was the EPEX SPOT market of France, with a 17% drop. The Nord Pool market of the Nordic countries and the EPEX SPOT market of Germany achieved the largest percentage price increases, 12% and 18%, respectively. In contrast, the N2EX market of the United Kingdom registered the smallest percentage increase, 1.4%. In the other markets analyzed at AleaSoft Energy Forecasting, prices rose between 2.1% in the EPEX SPOT market of the Netherlands and 11% in the MIBEL market of Portugal.
+
+In the second week of May, despite the price increases, weekly averages remained below €65/MWh in most analyzed European electricity markets. The exceptions were the German market, the British market and the IPEX market of Italy, with averages of €67.33/MWh, €81.65/MWh and €90.86/MWh, respectively. On the other hand, the French market registered the lowest weekly average, €28.06/MWh, thus breaking the streak that the MIBEL market had been on by reaching the lowest prices for thirteen consecutive weeks. In the rest of the analyzed markets, prices ranged from €30.81/MWh in the Spanish market to €62.81/MWh in the Dutch market.
+
+Regarding hourly prices, most analyzed European markets registered negative prices on May 11 and 12. The exceptions were the British and Italian markets, where there were no negative prices, and the Portuguese market, which only registered negative prices on the 11. On the other hand, the Nordic market also reached negative prices on Thursday, May 9. The rest of the analyzed markets, in addition to these three days, registered negative hourly prices on Monday, May 13. The Dutch market reached the lowest hourly price again, ?€200.00/MWh, on Sunday, May 12, from 13:00 to 14:00.
+
+During the week of May 6, the fall in wind energy production and the increase in the average price of gas and CO emission allowances had an upward influence on European electricity market prices. In addition, electricity demand increased in the German, Spanish and Italian markets. The previous week's public holiday on May 1 led to a decrease in demand and prices on that day in almost all markets. The Italian market also registered a decrease in solar energy production.
+
+AleaSoft Energy Forecasting's price forecasts indicate that prices of the analyzed European electricity markets might fall in the third week of May, influenced by the increase in wind energy production in most markets.
+
+Source: Prepared by AleaSoft Energy Forecasting using data from OMIE, EPEX SPOT, Nord Pool and GME.
+
+After the price drop in the first week of May, the settlement prices of Brent oil futures for the Front?Month in the ICE market remained below $85/bbl during the second week of May. On Thursday, May 9, these futures reached their weekly maximum settlement price, $83.88/bbl. This price was 0.3% higher than the previous Thursday. On the other hand, on Friday, May 10, these futures registered their weekly minimum settlement price, $82.79/bbl. According to data analyzed at AleaSoft Energy Forecasting, this price was 0.2% lower than the previous Friday and the lowest since March 13.
+
+In the second week of May, concerns about global economic evolution counterbalanced the upward influence caused by instability in the Middle East and the possibility that OPEC+ will maintain its production cuts in the second half of 2024. As a result, Brent oil futures prices remained stable.
+
+As for TTF gas futures in the ICE market for the Front?Month, on Monday, May 6, they reached their weekly maximum settlement price, €32.14/MWh. According to data analyzed at AleaSoft Energy Forecasting, this price was 15% higher than the previous Monday and the highest since April 19. Subsequently, settlement prices declined, but they remained above €30/MWh. On Friday, May 10, these futures reached their weekly minimum settlement price, €30.03/MWh. This price was 1.6% lower than the previous Friday.
+
+In the second week of May, concerns about supply to refill reserves for the coming winter drove TTF gas futures prices higher. LNG supply decreased in April due to higher prices in Asian markets. In addition, next winter might be colder than normal. However, still high European reserve levels continued to limit price increases.
+
+As for CO emission allowances futures in the EEX market for the reference contract of December 2024, settlement prices remained above €70/t during the second week of May. On Tuesday, May 7, these futures reached their weekly minimum settlement price, €70.98/t. According to data analyzed at AleaSoft Energy Forecasting, this price was still 3.6% higher than the previous Tuesday. In contrast, on Thursday, May 9, these futures registered their weekly maximum settlement price, €73.26/t. This price was 1.0% higher than the previous Thursday and the highest since April 17. In the last session of the second week of May, the settlement price was €71.90/t.
+
+Source: Prepared by AleaSoft Energy Forecasting using data from ICE and EEX.
+
+On Thursday, May 9, AleaSoft Energy Forecasting and AleaGreen held the 44 webinar of their monthly webinar series. This webinar addressed the evolution and prospects of European energy markets, as well as the low, zero and negative prices in the European electricity markets and their impact on the viability of renewable energy projects in the long term. It also analyzed the vision of the future of the energy sector and the vectors of the energy transition, such as renewable energy, demand, energy storage, green hydrogen, transmission and distribution grids and international interconnections. On this occasion, Luis Atienza Serna, Minister of the Spanish Government between 1994 and 1996 and president of Red Eléctrica between 2004 and 2012, participated, for the second time, in the analysis table of the webinar in Spanish.
+
+AleaSoft Energy Forecasting and AleaGreen will hold the next webinar in their series on Thursday, June 13. The webinar will analyze the evolution of European energy markets and the prospects in the second half of 2024, the growth opportunities in the renewable sector, regulatory and design challenges of the wholesale market, and the current state of the PPA market in Spain. In this webinar, guest speakers from Engie Spain will participate for the sixth time.",evwind.es,news,AEEolica,,0.1529411764705881,453406677,42,,
+8125229489,eng,False,2024-05-13,13:20:14,2024-05-13T13:20:14Z,2024-05-13T13:18:28Z,news,0.5137255191802979,https://www.hellenicshippingnews.com/unfavorable-spreads-war-risk-deter-european-gas-traders-from-ukrainian-storage/,"Unfavorable spreads, war risk deter European gas traders from Ukrainian storage","European gas market players are watching Ukrainian storage closely, but continued energy infrastructure attacks and less favorable spreads than a year ago remain a hurdle for many.
+
+Since late March, Ukrainian energy infrastructure increasingly has come under attack from Russian military forces, with gas facilities and underground storage units hit several times by missile and drone strikes.
+
+Russian attacks on Ukrainian gas infrastructure are a part of broader series of assaults on oil, gas and power facilities between the two nations, initiated by Russia's full-scale invasion of Ukraine in 2022, with an attack on Russia's Salavat refinery by Ukrainian drones May 9 being the latest development
+
+""It is just too sudden and unpredictable for me,"" a Netherlands-based trader said, reflecting on the risk of a rapid deterioration of the situation in Ukraine.
+
+""We sadly watched a series of attacks on our energy infrastructure and were forced to respond,"" Russia's president Vladimir Putin said during a meeting April 11 with Belarus' president.
+
+Similar to the country's gas storage infrastructure, Ukrainian gas production facilities were also subjects of shelling and power cuts, but Naftogaz's upstream arm, UkrGazVydobuvannya, posted 12% year-on-year gains in Q1 2024.
+
+""The risk is too high,"" a European gas trader said. ""We have considered [using Ukrainian storage], but it's too hard to put the case together because it's impossible to know Russia's next moves.""
+
+Ukrainian storage capacity benefits from customs warehouse regime
+
+In a report published May 7, analysts at S&P Global Commodity Insights revised their projections and now consider it ""more likely than not"" that Russian gas flows through Ukraine will cease by 2025.
+
+This development has prompted Europe to look at several flexibility and contingency options. For the Central and Eastern European, or CEE, markets, an option is to utilize Ukrainian gas storage facilities under the country's customs warehouse regime. The Ukrainian customs warehouse regime has more storage capacity than any other EU country, a legacy of the high volumes of Russian gas exported through the country.
+
+The regime bundles all Ukrainian storage facilities as one, meaning if one facility is hit, participants can continue to withdraw gas from other facilities. Moreover, UkrTransGaz also offers custom duty exemptions for three years, meaning gas can easily be reimported back into the EU.
+
+Up to 10 Bcm of capacity was on offer under the customs warehouse regime, according to Agneta Kutselim, UkrTransGaz head of commercial.
+
+By comparison, German storage's working gas volume stands at roughly 25 Bcm, with the country boasting the EU's largest underground storage capacity, data from Gas Infrastructure Europe shows.
+
+A Hungary-based trader wondered who would ultimately take the financial hit for the gas lost due to infrastructure attacks.
+
+""Domestic players or foreign companies?"" the source asked, pointing out that the current replacement arrangement would cause operational problems but is ""is doable until a certain level"" of infrastructure damage.
+
+The prior mentioned analytics report forecasts that, based on current gas storage levels and continued injections throughout summer 2024, 2.5 Bcm of gas would be available for withdrawals during the winter season.
+
+Winter premiums remain weak
+
+Market participants continued to see the seasonal spreads as currently unfavorable in pushing enough injections into Ukrainian storage by the end of summer.
+
+""I do not think that the current spreads between summer contracts and winter will incentivize a lot of players to fill storage beyond the EU into Ukraine"" a UK-based gas analyst said, ""If there is less gas in Ukrainian storage, or if they become less available [due to attacks], the gas system in winter will be much tighter, and Eastern European countries will have to also rely more on imports from Northwest Europe.""
+
+Platts, part of S&P Global Commodity Insights, assessed the Winter 2024 premium to the month-ahead at Europe's bellwether Dutch TTF hub at Eur5.32/MWh May 11, with the spread having averaged around Eur5.325/MWh since the summer season began.
+
+In comparison, Platts had assessed the TTF Winter 2023 premium to the month-ahead at Eur20.075/MWh as of May 11, 2023. This spread would then reach a peak of Eur20.6/MWh by May 24, remaining between the Eur15-20/MWh for much of the previous summer season.
+
+European gas market participants have highlighted persistent concerns surrounding risks of further escalation alongside unfavorable pricing dynamics.
+
+""The spreads are the driver,"" a Switzerland-based trader said. ""If the spreads were Eur10-12/MWh, which was a decent level for last year, would a trader inject in light of these new attacks?""
+
+Another European gas trader said: ""It is about portfolio management and risk appetite. Personally, I would not use any Ukrainian source as long as Russia is active in the field. ... My opinion now is that the market isn't focused on this.""
+
+""If storage infrastructure is damaged, it may cause a reactive price spike but shouldn't have a long-term effect on prices because they are not being utilized in the market,"" the same source said.
+
+Source: Platts",hellenicshippingnews.com,news,Hellenic Shipping News,,-0.2392156862745098,453302414,9,,eng-9560532
+8120120045,eng,False,2024-05-10,03:37:43,2024-05-10T03:37:43Z,2024-05-10T03:37:06Z,news,0.0,https://www.spglobal.com/commodityinsights/en/market-insights/latest-news/natural-gas/050924-unfavorable-spreads-war-risk-deter-european-gas-traders-from-ukrainian-storage,"Unfavorable spreads, war risk deter European gas traders from Ukrainian storage","European gas market players are watching Ukrainian storage closely, but continued energy infrastructure attacks and less favorable spreads than a year ago remain a hurdle for many.
+
+Since late March, Ukrainian energy infrastructure increasingly has come under attack from Russian military forces, with gas facilities and underground storage units hit several times by missile and drone strikes.
+
+Russian attacks on Ukrainian gas infrastructure are a part of broader series of assaults on oil, gas and power facilities between the two nations, initiated by Russia's full-scale invasion of Ukraine in 2022, with an attack on Russia's Salavat refinery by Ukrainian drones May 9 being the latest development
+
+""It is just too sudden and unpredictable for me,"" a Netherlands-based trader said, reflecting on the risk of a rapid deterioration of the situation in Ukraine.
+
+""We sadly watched a series of attacks on our energy infrastructure and were forced to respond,"" Russia's president Vladimir Putin said during a meeting April 11 with Belarus' president.
+
+Similar to the country's gas storage infrastructure, Ukrainian gas production facilities were also subjects of shelling and power cuts, but Naftogaz's upstream arm, UkrGazVydobuvannya, posted 12% year-on-year gains in Q1 2024.
+
+""The risk is too high,"" a European gas trader said. ""We have considered [using Ukrainian storage], but it's too hard to put the case together because it's impossible to know Russia's next moves.""
+
+In a report published May 7, analysts at S&P Global Commodity Insights revised their projections and now consider it ""more likely than not"" that Russian gas flows through Ukraine will cease by 2025.
+
+This development has prompted Europe to look at several flexibility and contingency options. For the Central and Eastern European, or CEE, markets, an option is to utilize Ukrainian gas storage facilities under the country's customs warehouse regime. The Ukrainian customs warehouse regime has more storage capacity than any other EU country, a legacy of the high volumes of Russian gas exported through the country.
+
+The regime bundles all Ukrainian storage facilities as one, meaning if one facility is hit, participants can continue to withdraw gas from other facilities. Moreover, UkrTransGaz also offers custom duty exemptions for three years, meaning gas can easily be reimported back into the EU.
+
+Up to 10 Bcm of capacity was on offer under the customs warehouse regime, according to Agneta Kutselim, UkrTransGaz head of commercial.
+
+By comparison, German storage's working gas volume stands at roughly 25 Bcm, with the country boasting the EU's largest underground storage capacity, data from Gas Infrastructure Europe shows.
+
+A Hungary-based trader wondered who would ultimately take the financial hit for the gas lost due to infrastructure attacks.
+
+""Domestic players or foreign companies?"" the source asked, pointing out that the current replacement arrangement would cause operational problems but is ""is doable until a certain level"" of infrastructure damage.
+
+The prior mentioned analytics report forecasts that, based on current gas storage levels and continued injections throughout summer 2024, 2.5 Bcm of gas would be available for withdrawals during the winter season.
+
+Market participants continued to see the seasonal spreads as currently unfavorable in pushing enough injections into Ukrainian storage by the end of summer.
+
+""I do not think that the current spreads between summer contracts and winter will incentivize a lot of players to fill storage beyond the EU into Ukraine"" a UK-based gas analyst said, ""If there is less gas in Ukrainian storage, or if they become less available [due to attacks], the gas system in winter will be much tighter, and Eastern European countries will have to also rely more on imports from Northwest Europe.""
+
+Platts, part of S&P Global Commodity Insights, assessed the Winter 2024 premium to the month-ahead at Europe's bellwether Dutch TTF hub at Eur5.32/MWh May 11, with the spread having averaged around Eur5.325/MWh since the summer season began.
+
+In comparison, Platts had assessed the TTF Winter 2023 premium to the month-ahead at Eur20.075/MWh as of May 11, 2023. This spread would then reach a peak of Eur20.6/MWh by May 24, remaining between the Eur15-20/MWh for much of the previous summer season.
+
+""The spreads are the driver,"" a Switzerland-based trader said. ""If the spreads were Eur10-12/MWh, which was a decent level for last year, would a trader inject in light of these new attacks?""
+
+Another European gas trader said: ""It is about portfolio management and risk appetite. Personally, I would not use any Ukrainian source as long as Russia is active in the field. ... My opinion now is that the market isn't focused on this.""
+
+""If storage infrastructure is damaged, it may cause a reactive price spike but shouldn't have a long-term effect on prices because they are not being utilized in the market,"" the same source said.",spglobal.com,news,spglobal.com,,-0.2392156862745098,453008263,9,,
+2024-05-349782700,eng,False,2024-05-09,05:25:13,2024-05-09T05:25:13Z,2024-05-09T05:01:55Z,news,0.4431372582912445,https://weeklyvoice.com/tenaz-energy-corp-announces-q1-2024-results/,TENAZ ENERGY CORP. ANNOUNCES Q1 2024 RESULTS,"CALGARY, AB , May 8, 2024 /CNW/ - Tenaz Energy Corp. (""Tenaz"", ""We"", ""Our"", ""Us"" or the ""Company"") (TSX: TNZ) is pleased to announce its financial and operating results for the three months ended March 31 , 2024.
+
+The unaudited interim condensed consolidated financial statements and related management's discussion and analysis (""MD&A"") are available on SEDAR+ at www.sedarplus.ca and on Tenaz's website at www.tenazenergy.com . Select financial and operating information for the three months ended March 31, 2024 appear below and should be read in conjunction with the related financial statements and MD&A.
+
+A webcast presentation to accompany this release is available on Tenaz's website at www.tenazenergy.com .
+
+Production volumes averaged 2,887 boe/d(1) in Q1 2024, down 8% from Q4 2023, due to natural decline in Leduc-Woodbend (""LWB"") wells drilled in 2023 and Netherlands downtime. Production increased 24% over Q1 2023 due to LWB drilling and the acquisition of additional interest in the Netherlands in July 2023 .
+
+Funds flow from operations (""FFO"")(2) for the first quarter was $7.0 million , down 47% from Q4 2023 and 3% from Q1 2023. Lower FFO versus Q4 2023 resulted primarily from lower production levels. In the year-over-year comparison lower prices in Q1 2024 were largely offset by higher production levels.
+
+Q1 2024 capital expenditures (""CAPEX"") were $3.8 million . Most of the CAPEX was in the Netherlands for well stimulation activities. The bulk of our 2024 CAPEX will occur in the second half of the year, with Canadian drilling planned for Q3. Free cash flow(2) in Q1 2024 was $3.2 million .
+
+During Q1, we executed a definitive agreement to acquire a gas plant and proximal oil and gas leasehold assets from a private company for expected consideration at close of $2.8 million , net to Tenaz. We posted cash into escrow to fund this purchase during Q1. The acquisition is conditional on approval of the Alberta Energy Regulator (""AER"") and is expected to close during Q2 2024. After closing, Tenaz will own 100% of the gas plant and 87.5% of the acquired leasehold assets.
+
+The acquisition provides us with ownership and operating control of the gas plant and pipeline infrastructure that processes our gas production from the LWB field. In addition, the plant generates processing revenue from third-party gas volumes, with significant unused capacity to process more gas. The leasehold assets have minor current production, but contain several potential drilling opportunities in the Rex Member and Ellerslie Formation of the Mannville Group.
+
+An independent evaluation by McDaniel and Associates with an effective date of January 1, 2024 has estimated an after-tax NPV10 of $9.3 million for the plant and developed portion of the leasehold. In addition, we have identified multiple undeveloped horizontal drilling opportunities in the Ellerslie Formation providing further upside to the acquisition.
+
+Net loss for Q1 2024 was $0.6 million , as compared to net income of $3.5 million in Q4 2023 and $2.9 million in Q1 2023. Lower income compared to Q4 2023 resulted primarily from lower production, decreased natural gas prices, and higher Netherlands operating expense due to higher field activity.
+
+We ended the quarter with positive adjusted working capital(2) of $48.7 million , little changed from year-end 2023 and up substantially from Q1 2023, primarily due to the Netherlands XTO acquisition in Q3 2023.
+
+Our Normal Course Issuer Bid (""NCIB"") program retired 0.2 million common shares at an average cost of $3.67 per share during Q1 2024. As of the end of April 2024 , we have retired 2.0 million shares at an average cost of $2.77 per share (7.0% of basic common shares) through the NCIB. _________________________________
+
+(1) The term barrels of oil equivalent (""boe"") may be misleading, particularly if used in isolation. Per boe amounts have been calculated by using the conversion ratio of six thousand cubic feet (6 Mcf) of natural gas to one barrel (1 bbl) of crude oil. Refer to ""Barrels of Oil Equivalent"" section included in the ""Advisories"" section of this press release.
+
+(2) This is a non-GAAP and other financial measure. Refer to ""Non-GAAP and Other Financial Measures"" included in the ""Advisories"" section of this press release.
+
+Budget and Outlook
+
+Annual guidance for capital expenditures remains unchanged at $26 to $28 million , with Canadian drilling activity slated for the second half of the year. Annual production guidance of 2,700 to 2,900 boe/d remains unchanged. FINANCIAL AND OPERATIONAL SUMMARY
+
+(1) This is a non-GAAP and other financial measure. Refer to ""Non-GAAP and Other Financial Measures"" included in the ""Advisories"" section of this press release.
+
+(2) The term barrels of oil equivalent (""boe"") may be misleading, particularly if used in isolation. Per boe amounts have been calculated by using the conversion ratio of six thousand cubic feet (6 Mcf) of natural gas to one barrel (1 bbl) of crude oil. Refer to ""Barrels of Oil Equivalent"" section included in the ""Advisories"" section of the this press release.
+
+PRESIDENT'S MESSAGE
+
+We are pleased to provide our results for the first quarter of 2024. From an operating perspective, the quarter unfolded largely as we expected, with production 8% lower than Q4 2023, and up 24% from the year-ago quarter. Canadian production was down modestly from Q4 2023, as the four LWB wells we drilled last year continued their strong performance but began to decline during Q1. Netherlands production was also moderately lower than in Q4 2023 due to a combination of planned and unplanned downtime. The production increase over Q1 2023 was driven by Canadian drilling in the second half of 2023 and the second of our two non-operated acquisitions in the Netherlands , which closed in Q3 2023. We generated FFO of $7.0 million in Q1 2024, which was coupled with modest seasonal CAPEX of $3.8 million . As a result, our positive adjusted working capital (negative net debt)3 was little changed at $48.7 million , including the effect of our NCIB program.
+
+Our main focus remains international acquisitions. At the same time, we continue to build on our valuable and growing asset at Leduc-Woodbend in Alberta with small value-adding acquisitions. During Q1, we executed a definitive agreement to purchase the Watelet gas plant, relevant pipelines, and proximal oil and gas properties from a private company, with an effective date of January 1, 2024 . The gas plant is adjacent to our LWB field and processes all of our produced gas. Tenaz' net expected consideration at closing is $2.8 million , with the exact amount depending on final accounting adjustments for interim cash flows and other customary items. The purchase is being funded from our cash balances with $3.45 million placed in escrow for the purchase during Q1 2024. The deposit included our partner's 12.5% share of the purchase price. After closing, Tenaz will own 87.5% of the leasehold assets and 100% of the gas plant. The acquisition is conditional upon approval of the AER, which is expected during Q2 2024.
+
+With its existing processing and compressor configuration, the Watelet plant has a throughput capacity of 7.5 MMcf/d. Current throughput is about 75% of this existing capacity, with Tenaz gas volumes comprising approximately three-quarters of current throughput. Capacity can be expanded to approximately 12 MMcf/d with reactivation of an idle compressor unit. Although our LWB gas production is sweet, the gas plant is licensed for sour service, with a licensed capacity of 20 MMcf/d. We expect to increase throughput of proprietary gas from continued development of the LWB field. In addition, we may expand processing of third-party volumes from other operators in the area. As owner and operator of the Watelet plant and associated pipeline infrastructure, Tenaz will gain control of gas egress and processing for LWB, providing greater security for our long-term development plans, as well as the ability to maximize runtime and operating efficiency of the plant.
+
+The oil and gas properties acquired with the plant include eight proved developed wells with minor production. An independent evaluation by McDaniel and Associates with an effective date of January 1, 2024 has estimated an after-tax NPV10 of $9.3 million for the plant and developed portion of the leasehold. In addition, we have identified multiple undeveloped horizontal drilling opportunities in the Ellerslie Formation providing further upside to the acquisition.
+
+The LWB field continues to produce as expected, with first quarter production 5% lower than in Q4 2023 due to natural declines and the absence of initial flush production from our most recent wells. We expect to commence our 2024 drilling program during Q3, with production contributions from the program expected later in the second half of 2024. While the new wells can be brought online within our overall existing facility capacity, part of our 2024 CAPEX will go toward localized facility modifications to optimize production operations and enhance long-term fluid processing capabilities at LWB.
+
+Our non-operated natural gas asset in the Netherlands also produced at rates consistent with our annual production guidance. Q1 2024 production was 13% lower than Q4 2023, mainly due to a combination of planned and unplanned downtime. During the quarter, operator Neptune Energy Netherlands B.V. (""Neptune"") successfully stimulated two wells (both with 12.3% Tenaz working interest). After stimulation, the wells were brought on production at the beginning of April at gross rates of 2.0 to 2.5 MMcf/d per well.
+
+Neptune and its partners in the L10 field continue to study the technical merits and assess the commercial viability of carbon capture and storage (""CCS"") in the L10 reservoir. If commercially viable, the CCS project has the potential to store 96 million tonnes (""mt"") of CO2 (10.9 mt net to Tenaz) with contemplated annual capacity of up to 5 mt. The proximity of the planned Aramis CCS pipeline to L10 creates an opportunity for collaboration with other potential CCS operators to improve economies of scale for the L10 project.
+
+Despite continued volatility in commodity prices, our realized prices remain at levels that generate free cash and provide strong project returns. Spot price for TTF gas is currently $13.33 /Mcf1 , with a forward price for the remainder of 2024 at $14.31 /Mcf1 and calendar 2025 at $15.29 /Mcf1 .
+
+We have physically fixed approximately 20% of our Q2 and Q3 2024 TTF gas at $14.58 /Mcf. In addition, we have physically fixed approximately 20% of our winter 2024-2025 TTF exposure at a price of $14.00 per Mcf, and collared an additional 20% for the same period within a range of $13.74 to $17.49 per Mcf.
+
+WCS oil is also a significant product for Tenaz. With prompt WTI currently at approximately US$79.25 /bbl1 and WCS differentials contracting to under US$12.00 /bbl during line fill of the TMX pipeline, WCS crude has a current value of approximately $92 /bbl. Our LWB crude sells as WCS without the addition of diluent. Though WTI prices are now off the recent highs of March 2024 , we view the market backdrop for both global crude and local WCS differentials as generally positive. We remain unhedged for our oil exposure.
+
+While Canadian natural gas is a less-significant product in our mix, AECO remains a challenged product with spot AECO at $1.30 /Mcf1 and the balance of 2024 forward at $1.96 /Mcf1 . We have fixed approximately 25% of our winter 2024-2025 AECO exposure at a price of $3.28 /Mcf.
+
+With respect to our organization, we continue to expand our capabilities with the appointment of Brian Giang to the position of Vice-President of Finance, reporting to Bradley Bennett , our CFO. Mr. Giang brings significant international oil and gas accounting and finance experience to our team. He joins Tenaz after thirteen years at Vermilion Energy where he most recently was Director of Finance. Prior to that, Mr. Giang worked for Deloitte Canada for four years, predominantly in audit with an emphasis on oil and gas companies. He has a Bachelor of Commerce from the University of Alberta and holds a Chartered Professional Accountant designation in Alberta . We are excited that Mr. Giang has joined our team and view his appointment as another key step in building the capabilities to support our business model.
+
+As stated in our previous communications, we plan to expand our asset base in our regions of interest by executing additional value-adding transactions. We pursue these M&A investments in an oil and gas asset market that is well-populated with projects that are aligned with our strategy. We are optimistic about our transaction pipeline, as we have been able to maintain and advance those projects which are closest to fruition, while at the same time bringing additional high-quality prospective transactions into our long-term mix.
+
+As we have also stated before, we make no guarantees with respect to timing, but are confident that our business model and transaction pipeline will produce value-adding acquisitions for our existing shareholders. Our ongoing organizational strengthening reflects this confidence and illustrates our readiness to execute such transactions. Finally, the management and Board of Directors of Tenaz remain aligned with the rest of our shareholders through our growing ownership of Tenaz shares.
+
+Tenaz is an energy company focused on the acquisition and sustainable development of international oil and gas assets capable of returning free cash flow to shareholders. Tenaz has domestic operations in Canada along with offshore natural gas assets in the Netherlands . The domestic operations consist of a semi-conventional oil project in the Rex member of the Upper Mannville group at Leduc-Woodbend in central Alberta . The Netherlands natural gas assets are located in the Dutch sector of the North Sea.
+
+Additional information regarding Tenaz is available on SEDAR+ and its website at www.tenazenergy.com . Further information on NGT can be found at https://noordgastransport.nl . Tenaz's Common Shares are listed for trading on the Toronto Stock Exchange under the symbol ""TNZ"".
+
+This press release contains references to measures used in the oil and natural gas industry such as ""funds flow from operations"", ""funds flow from operations per share"", ""funds flow from operations per boe"", ""adjusted working capital (net debt)"", ""free cash flow"", ""midstream income"" and ""operating netback"". The data presented in this press release is intended to provide additional information and should not be considered in isolation or as a substitute for measures of performance prepared in accordance with IFRS Accounting Standards (""IFRS"") as issued by the International Accounting Standards Board and sometimes referred to in this press release as Generally Accepted Accounting Principles (""GAAP""). These reported non-GAAP measures and their underlying calculations are not necessarily comparable or calculated in an identical manner to a similarly titled measure of other companies where similar terminology is used. Where these measures are used, they should be given careful consideration by the reader.
+
+Funds flow from operations (""FFO"")
+
+Tenaz considers funds flow from operations to be a key measure of performance as it demonstrates the Company's ability to generate the necessary funds for sustaining capital, future growth through capital investment, and settling liabilities. Funds flow from operations is calculated as cash flow from operating activities plus income from associate and before changes in non-cash operating working capital and decommissioning liabilities settled. Funds flow from operations is not intended to represent cash flows from operating activities calculated in accordance with IFRS. A summary of the reconciliation of cash flow from operating activities to funds flow from operations, is set forth below:
+
+Funds flow from operations per share is calculated using basic and diluted weighted average number of shares outstanding in the period.
+
+Funds flow from operations per boe is calculated as funds flow from operations divided by total production sold in the period.
+
+Capital Expenditures
+
+Tenaz considers capital expenditures to be a useful measure of the Company's investment in its existing asset base calculated as the sum of drilling and development costs and exploration and evaluation costs. Exploration and evaluation asset additions (being exploration and evaluation costs) and property, plant and equipment additions (being drilling and development costs) from the consolidated statements of cash flows that is most directly comparable to cash flows used in investing activities. The reconciliation to primary financial statement measures is set forth below:
+
+Tenaz considers free cash flow to be a key measure of performance as it demonstrates the Company's excess funds generated after capital expenditures for potential shareholder returns, acquisitions, or growth in available liquidity. FCF is a non-GAAP financial measure most directly comparable to cash flows used in investing activities and is comprised of funds flow from operations less capital expenditures. A summary of the reconciliation of the measure, is set forth below:
+
+Tenaz considers midstream income an integral part of determining operating netback. Operating netbacks assists management and investors with evaluating operating performance. Tenaz's midstream income consists of the income from its associate, Noordtgastransport B.V. and excludes the amortization of fair value increment of NGT that is included in the equity investment on the balance sheet. Under IFRS, investments in associates are accounted for using the equity method of accounting. Income from associate is Tenaz's share of the investee's net income and comprehensive income. Operating netback is disclosed in the ""Operating Netback"" section below.
+
+Plus: Amortization of fair value increment of NGT
+
+Management views adjusted working capital (net debt) as a key industry benchmark and measure to assess the Company's financial position and liquidity. Adjusted working capital (net debt) is calculated as current assets less current liabilities, excluding the fair value of derivative instruments. Tenaz's adjusted working capital (net debt) as at March 31, 2024 and December 31, 2023 is summarized as follows:
+
+Tenaz calculates operating netback on a dollar and per boe basis, as petroleum and natural gas sales less royalties, operating costs and transportation costs. Operating netback is a key industry benchmark and a measure of performance for Tenaz that provides investors with information that is commonly used by other crude oil and natural gas producers. The measurement on a per boe basis assists management and investors with evaluating operating performance on a comparable basis. Tenaz's operating netback is disclosed in the ""Financial and Operational Summary"" section of this press release.
+
+Barrels of Oil Equivalent
+
+The term barrels of oil equivalent (""boe"") may be misleading, particularly if used in isolation. Per boe amounts have been calculated by using the conversion ratio of six thousand cubic feet (6 mcf) of natural gas to one barrel (1 bbl) of crude oil. The boe conversion ratio of 6 mcf to 1 bbl is based on an energy equivalency conversion method primarily applicable at the burner tip and does not represent a value equivalency at the wellhead. Given that the value ratio based on the current price of crude oil as compared to natural gas is significantly different from the energy equivalent of 6:1, utilizing a conversion on a 6:1 basis may be misleading as an indication of value.
+
+Forward ‐ looking Information and Statements
+
+This press release contains certain forward-looking information and statements within the meaning of applicable securities laws. The use of any of the words ""expect"", ""anticipate"", ""budget"", ""forecast"", ""guidance"", ""continue"", ""estimate"", ""objective"", ""ongoing"", ""may"", ""will"", ""project"", ""should"", ""could"", ""believe"", ""plans"", ""potential"", ""intends"", ""strategy"" and similar expressions are intended to identify forward-looking information or statements. In particular, but without limiting the foregoing, this press release contains forward-looking information and statements pertaining to: Tenaz's capital plans; activities and budget for 2023, and our anticipated operational and financial performance; expected well performance; expected economies of scale; forecasted average production volumes and capital expenditures for 2023; the proposed gas plant and leasehold assets acquisition; the ability to grow our assets domestically and internationally; statements relating to a potential CCS project; and the Company's strategy.
+
+The forward-looking information and statements contained in this press release reflect several material factors and expectations and assumptions of the Company including, without limitation: the continued performance of the Company's oil and gas properties in a manner consistent with its past experiences; that the Company will continue to conduct its operations in a manner consistent with past operations; expectations regarding future development; the general continuance of current industry conditions; the continuance of existing (and in certain circumstances, the implementation of proposed) tax, royalty and regulatory regimes; expectations regarding proposed and future acquisition opportunities; the accuracy of the estimates of the Company's reserves volumes; certain commodity price, interest rate, inflation and other cost assumptions; the continued availability of oilfield services; and the continued availability of adequate debt and equity financing and cash flow from operations to fund its planned expenditures and obligations and commitments. The Company believes the material factors, expectations and assumptions reflected in the forward-looking information and statements are reasonable, but no assurance can be given that these factors, expectations, and assumptions will prove to be correct.
+
+The forward-looking information and statements included in this press release are not guarantees of future performance and should not be unduly relied upon. Such information and statements involve known and unknown risks, uncertainties and other factors that may cause actual results or events to differ materially from those anticipated in such forward-looking information or statements including, without limitation: changes in commodity prices; changes in the demand for or supply of the Company's products; unanticipated operating results or production declines; changes in tax or environmental laws, royalty rates or other regulatory matters; changes in development plans of the Company or by third party operators of the Company's oil and gas interests, increased debt levels or debt service requirements; inaccurate estimation of the Company's oil and gas reserve or resource volumes; limited, unfavorable or a lack of access to capital markets; increased costs; a lack of adequate insurance coverage; the impact of competitors; and certain other risks detailed from time to time in the Company's public documents.
+
+The forward-looking information and statements contained in this press release speak only as of the date of this press release, and the Company does not assume any obligation to publicly update or revise them to reflect new events or circumstances or otherwise, except as may be required pursuant to applicable laws.",weeklyvoice.com,news,Weekly Voice,,0.2549019607843137,452928313,100,https://weeklyvoice.com/wp-content/uploads/2024/05/Tenaz_Energy_Corp__TENAZ_ENERGY_CORP__ANNOUNCES_Q1_2024_RESULTS.jpg,eng-9547567
+8118457053,eng,False,2024-05-09,04:33:05,2024-05-09T04:33:05Z,2024-05-09T04:32:38Z,news,0.0,https://www.benzinga.com/pressreleases/24/05/n38721499/tenaz-energy-corp-announces-q1-2024-results,TENAZ ENERGY CORP. ANNOUNCES Q1 2024 RESULTS,"CALGARY, AB, May 8, 2024 /CNW/ - Tenaz Energy Corp. (""Tenaz"", ""We"", ""Our"", ""Us"" or the ""Company"") TNZ is pleased to announce its financial and operating results for the three months ended March 31, 2024.
+
+The unaudited interim condensed consolidated financial statements and related management's discussion and analysis (""MD&A"") are available on SEDAR+ at www.sedarplus.ca and on Tenaz's website at www.tenazenergy.com. Select financial and operating information for the three months ended March 31, 2024 appear below and should be read in conjunction with the related financial statements and MD&A.
+
+A webcast presentation to accompany this release is available on Tenaz's website at www.tenazenergy.com.
+
+HIGHLIGHTS
+
+First Quarter Operating and Financial Results
+
+Production volumes averaged 2,887 boe/d(1) in Q1 2024, down 8% from Q4 2023, due to natural decline in Leduc-Woodbend (""LWB"") wells drilled in 2023 and Netherlands downtime. Production increased 24% over Q1 2023 due to LWB drilling and the acquisition of additional interest in the Netherlands in July 2023.
+
+Funds flow from operations (""FFO"")(2) for the first quarter was $7.0 million, down 47% from Q4 2023 and 3% from Q1 2023. Lower FFO versus Q4 2023 resulted primarily from lower production levels. In the year-over-year comparison lower prices in Q1 2024 were largely offset by higher production levels.
+
+Q1 2024 capital expenditures (""CAPEX"") were $3.8 million. Most of the CAPEX was in the Netherlands for well stimulation activities. The bulk of our 2024 CAPEX will occur in the second half of the year, with Canadian drilling planned for Q3. Free cash flow(2) in Q1 2024 was $3.2 million.
+
+During Q1, we executed a definitive agreement to acquire a gas plant and proximal oil and gas leasehold assets from a private company for expected consideration at close of $2.8 million, net to Tenaz. We posted cash into escrow to fund this purchase during Q1. The acquisition is conditional on approval of the Alberta Energy Regulator (""AER"") and is expected to close during Q2 2024. After closing, Tenaz will own 100% of the gas plant and 87.5% of the acquired leasehold assets.
+
+The acquisition provides us with ownership and operating control of the gas plant and pipeline infrastructure that processes our gas production from the LWB field. In addition, the plant generates processing revenue from third-party gas volumes, with significant unused capacity to process more gas. The leasehold assets have minor current production, but contain several potential drilling opportunities in the Rex Member and Ellerslie Formation of the Mannville Group.
+
+An independent evaluation by McDaniel and Associates with an effective date of January 1, 2024 has estimated an after-tax NPV10 of $9.3 million for the plant and developed portion of the leasehold. In addition, we have identified multiple undeveloped horizontal drilling opportunities in the Ellerslie Formation providing further upside to the acquisition.
+
+Net loss for Q1 2024 was $0.6 million, as compared to net income of $3.5 million in Q4 2023 and $2.9 million in Q1 2023. Lower income compared to Q4 2023 resulted primarily from lower production, decreased natural gas prices, and higher Netherlands operating expense due to higher field activity.
+
+We ended the quarter with positive adjusted working capital(2) of $48.7 million, little changed from year-end 2023 and up substantially from Q1 2023, primarily due to the Netherlands XTO acquisition in Q3 2023.
+
+Our Normal Course Issuer Bid (""NCIB"") program retired 0.2 million common shares at an average cost of $3.67 per share during Q1 2024. As of the end of April 2024, we have retired 2.0 million shares at an average cost of $2.77 per share (7.0% of basic common shares) through the NCIB.
+
+Budget and Outlook
+
+Annual guidance for capital expenditures remains unchanged at $26 to $28 million, with Canadian drilling activity slated for the second half of the year.Annual production guidance of 2,700 to 2,900 boe/d remains unchanged.
+
+FINANCIAL AND OPERATIONAL SUMMARY
+
+PRESIDENT'S MESSAGE
+
+We are pleased to provide our results for the first quarter of 2024. From an operating perspective, the quarter unfolded largely as we expected, with production 8% lower than Q4 2023, and up 24% from the year-ago quarter. Canadian production was down modestly from Q4 2023, as the four LWB wells we drilled last year continued their strong performance but began to decline during Q1. Netherlands production was also moderately lower than in Q4 2023 due to a combination of planned and unplanned downtime. The production increase over Q1 2023 was driven by Canadian drilling in the second half of 2023 and the second of our two non-operated acquisitions in the Netherlands, which closed in Q3 2023. We generated FFO of $7.0 million in Q1 2024, which was coupled with modest seasonal CAPEX of $3.8 million. As a result, our positive adjusted working capital (negative net debt)3 was little changed at $48.7 million, including the effect of our NCIB program.
+
+Our main focus remains international acquisitions. At the same time, we continue to build on our valuable and growing asset at Leduc-Woodbend in Alberta with small value-adding acquisitions. During Q1, we executed a definitive agreement to purchase the Watelet gas plant, relevant pipelines, and proximal oil and gas properties from a private company, with an effective date of January 1, 2024. The gas plant is adjacent to our LWB field and processes all of our produced gas. Tenaz' net expected consideration at closing is $2.8 million, with the exact amount depending on final accounting adjustments for interim cash flows and other customary items. The purchase is being funded from our cash balances with $3.45 million placed in escrow for the purchase during Q1 2024. The deposit included our partner's 12.5% share of the purchase price. After closing, Tenaz will own 87.5% of the leasehold assets and 100% of the gas plant. The acquisition is conditional upon approval of the AER, which is expected during Q2 2024.
+
+With its existing processing and compressor configuration, the Watelet plant has a throughput capacity of 7.5 MMcf/d. Current throughput is about 75% of this existing capacity, with Tenaz gas volumes comprising approximately three-quarters of current throughput. Capacity can be expanded to approximately 12 MMcf/d with reactivation of an idle compressor unit. Although our LWB gas production is sweet, the gas plant is licensed for sour service, with a licensed capacity of 20 MMcf/d. We expect to increase throughput of proprietary gas from continued development of the LWB field. In addition, we may expand processing of third-party volumes from other operators in the area. As owner and operator of the Watelet plant and associated pipeline infrastructure, Tenaz will gain control of gas egress and processing for LWB, providing greater security for our long-term development plans, as well as the ability to maximize runtime and operating efficiency of the plant.
+
+The oil and gas properties acquired with the plant include eight proved developed wells with minor production. An independent evaluation by McDaniel and Associates with an effective date of January 1, 2024 has estimated an after-tax NPV10 of $9.3 million for the plant and developed portion of the leasehold. In addition, we have identified multiple undeveloped horizontal drilling opportunities in the Ellerslie Formation providing further upside to the acquisition.
+
+The LWB field continues to produce as expected, with first quarter production 5% lower than in Q4 2023 due to natural declines and the absence of initial flush production from our most recent wells. We expect to commence our 2024 drilling program during Q3, with production contributions from the program expected later in the second half of 2024. While the new wells can be brought online within our overall existing facility capacity, part of our 2024 CAPEX will go toward localized facility modifications to optimize production operations and enhance long-term fluid processing capabilities at LWB.
+
+Our non-operated natural gas asset in the Netherlands also produced at rates consistent with our annual production guidance. Q1 2024 production was 13% lower than Q4 2023, mainly due to a combination of planned and unplanned downtime. During the quarter, operator Neptune Energy Netherlands B.V. (""Neptune"") successfully stimulated two wells (both with 12.3% Tenaz working interest). After stimulation, the wells were brought on production at the beginning of April at gross rates of 2.0 to 2.5 MMcf/d per well.
+
+Neptune and its partners in the L10 field continue to study the technical merits and assess the commercial viability of carbon capture and storage (""CCS"") in the L10 reservoir. If commercially viable, the CCS project has the potential to store 96 million tonnes (""mt"") of CO2 (10.9 mt net to Tenaz) with contemplated annual capacity of up to 5 mt. The proximity of the planned Aramis CCS pipeline to L10 creates an opportunity for collaboration with other potential CCS operators to improve economies of scale for the L10 project.
+
+Despite continued volatility in commodity prices, our realized prices remain at levels that generate free cash and provide strong project returns. Spot price for TTF gas is currently $13.33/Mcf1, with a forward price for the remainder of 2024 at $14.31/Mcf1 and calendar 2025 at $15.29/Mcf1.
+
+We have physically fixed approximately 20% of our Q2 and Q3 2024 TTF gas at $14.58/Mcf. In addition, we have physically fixed approximately 20% of our winter 2024-2025 TTF exposure at a price of $14.00 per Mcf, and collared an additional 20% for the same period within a range of $13.74 to $17.49 per Mcf.
+
+WCS oil is also a significant product for Tenaz. With prompt WTI currently at approximately US$79.25/bbl1 and WCS differentials contracting to under US$12.00/bbl during line fill of the TMX pipeline, WCS crude has a current value of approximately $92/bbl. Our LWB crude sells as WCS without the addition of diluent. Though WTI prices are now off the recent highs of March 2024, we view the market backdrop for both global crude and local WCS differentials as generally positive. We remain unhedged for our oil exposure.
+
+While Canadian natural gas is a less-significant product in our mix, AECO remains a challenged product with spot AECO at $1.30/Mcf1 and the balance of 2024 forward at $1.96/Mcf1. We have fixed approximately 25% of our winter 2024-2025 AECO exposure at a price of $3.28/Mcf.
+
+With respect to our organization, we continue to expand our capabilities with the appointment of Brian Giang to the position of Vice-President of Finance, reporting to Bradley Bennett, our CFO. Mr. Giang brings significant international oil and gas accounting and finance experience to our team. He joins Tenaz after thirteen years at Vermilion Energy where he most recently was Director of Finance. Prior to that, Mr. Giang worked for Deloitte Canada for four years, predominantly in audit with an emphasis on oil and gas companies. He has a Bachelor of Commerce from the University of Alberta and holds a Chartered Professional Accountant designation in Alberta. We are excited that Mr. Giang has joined our team and view his appointment as another key step in building the capabilities to support our business model.
+
+As stated in our previous communications, we plan to expand our asset base in our regions of interest by executing additional value-adding transactions. We pursue these M&A investments in an oil and gas asset market that is well-populated with projects that are aligned with our strategy. We are optimistic about our transaction pipeline, as we have been able to maintain and advance those projects which are closest to fruition, while at the same time bringing additional high-quality prospective transactions into our long-term mix.
+
+As we have also stated before, we make no guarantees with respect to timing, but are confident that our business model and transaction pipeline will produce value-adding acquisitions for our existing shareholders. Our ongoing organizational strengthening reflects this confidence and illustrates our readiness to execute such transactions. Finally, the management and Board of Directors of Tenaz remain aligned with the rest of our shareholders through our growing ownership of Tenaz shares.
+
+/s/ Anthony Marino
+
+President and Chief Executive Officer
+
+May 8, 2024
+
+About Tenaz Energy Corp.
+
+Tenaz is an energy company focused on the acquisition and sustainable development of international oil and gas assets capable of returning free cash flow to shareholders. Tenaz has domestic operations in Canada along with offshore natural gas assets in the Netherlands. The domestic operations consist of a semi-conventional oil project in the Rex member of the Upper Mannville group at Leduc-Woodbend in central Alberta. The Netherlands natural gas assets are located in the Dutch sector of the North Sea.
+
+Additional information regarding Tenaz is available on SEDAR+ and its website at www.tenazenergy.com. Further information on NGT can be found at https://noordgastransport.nl. Tenaz's Common Shares are listed for trading on the Toronto Stock Exchange under the symbol ""TNZ"".
+
+ADVISORIES
+
+Non‐GAAP and Other Financial Measures
+
+This press release contains references to measures used in the oil and natural gas industry such as ""funds flow from operations"", ""funds flow from operations per share"", ""funds flow from operations per boe"", ""adjusted working capital (net debt)"", ""free cash flow"", ""midstream income"" and ""operating netback"". The data presented in this press release is intended to provide additional information and should not be considered in isolation or as a substitute for measures of performance prepared in accordance with IFRS Accounting Standards (""IFRS"") as issued by the International Accounting Standards Board and sometimes referred to in this press release as Generally Accepted Accounting Principles (""GAAP""). These reported non-GAAP measures and their underlying calculations are not necessarily comparable or calculated in an identical manner to a similarly titled measure of other companies where similar terminology is used. Where these measures are used, they should be given careful consideration by the reader.
+
+Funds flow from operations (""FFO"")
+
+Tenaz considers funds flow from operations to be a key measure of performance as it demonstrates the Company's ability to generate the necessary funds for sustaining capital, future growth through capital investment, and settling liabilities. Funds flow from operations is calculated as cash flow from operating activities plus income from associate and before changes in non-cash operating working capital and decommissioning liabilities settled. Funds flow from operations is not intended to represent cash flows from operating activities calculated in accordance with IFRS. A summary of the reconciliation of cash flow from operating activities to funds flow from operations, is set forth below:
+
+Funds flow from operations per share is calculated using basic and diluted weighted average number of shares outstanding in the period.
+
+Funds flow from operations per boe is calculated as funds flow from operations divided by total production sold in the period.
+
+Capital Expenditures
+
+Tenaz considers capital expenditures to be a useful measure of the Company's investment in its existing asset base calculated as the sum of drilling and development costs and exploration and evaluation costs. Exploration and evaluation asset additions (being exploration and evaluation costs) and property, plant and equipment additions (being drilling and development costs) from the consolidated statements of cash flows that is most directly comparable to cash flows used in investing activities. The reconciliation to primary financial statement measures is set forth below:
+
+Free Cash Flow (""FCF"")
+
+Tenaz considers free cash flow to be a key measure of performance as it demonstrates the Company's excess funds generated after capital expenditures for potential shareholder returns, acquisitions, or growth in available liquidity. FCF is a non-GAAP financial measure most directly comparable to cash flows used in investing activities and is comprised of funds flow from operations less capital expenditures. A summary of the reconciliation of the measure, is set forth below:
+
+Midstream Income
+
+Tenaz considers midstream income an integral part of determining operating netback. Operating netbacks assists management and investors with evaluating operating performance. Tenaz's midstream income consists of the income from its associate, Noordtgastransport B.V. and excludes the amortization of fair value increment of NGT that is included in the equity investment on the balance sheet. Under IFRS, investments in associates are accounted for using the equity method of accounting. Income from associate is Tenaz's share of the investee's net income and comprehensive income. Operating netback is disclosed in the ""Operating Netback"" section below.
+
+Adjusted working capital (net debt)
+
+Management views adjusted working capital (net debt) as a key industry benchmark and measure to assess the Company's financial position and liquidity. Adjusted working capital (net debt) is calculated as current assets less current liabilities, excluding the fair value of derivative instruments. Tenaz's adjusted working capital (net debt) as at March 31, 2024 and December 31, 2023 is summarized as follows:
+
+Operating Netback
+
+Tenaz calculates operating netback on a dollar and per boe basis, as petroleum and natural gas sales less royalties, operating costs and transportation costs. Operating netback is a key industry benchmark and a measure of performance for Tenaz that provides investors with information that is commonly used by other crude oil and natural gas producers. The measurement on a per boe basis assists management and investors with evaluating operating performance on a comparable basis. Tenaz's operating netback is disclosed in the ""Financial and Operational Summary"" section of this press release.
+
+Barrels of Oil Equivalent
+
+The term barrels of oil equivalent (""boe"") may be misleading, particularly if used in isolation. Per boe amounts have been calculated by using the conversion ratio of six thousand cubic feet (6 mcf) of natural gas to one barrel (1 bbl) of crude oil. The boe conversion ratio of 6 mcf to 1 bbl is based on an energy equivalency conversion method primarily applicable at the burner tip and does not represent a value equivalency at the wellhead. Given that the value ratio based on the current price of crude oil as compared to natural gas is significantly different from the energy equivalent of 6:1, utilizing a conversion on a 6:1 basis may be misleading as an indication of value.
+
+Forward‐looking Information and Statements
+
+This press release contains certain forward-looking information and statements within the meaning of applicable securities laws. The use of any of the words ""expect"", ""anticipate"", ""budget"", ""forecast"", ""guidance"", ""continue"", ""estimate"", ""objective"", ""ongoing"", ""may"", ""will"", ""project"", ""should"", ""could"", ""believe"", ""plans"", ""potential"", ""intends"", ""strategy"" and similar expressions are intended to identify forward-looking information or statements. In particular, but without limiting the foregoing, this press release contains forward-looking information and statements pertaining to: Tenaz's capital plans; activities and budget for 2023, and our anticipated operational and financial performance; expected well performance; expected economies of scale; forecasted average production volumes and capital expenditures for 2023; the proposed gas plant and leasehold assets acquisition; the ability to grow our assets domestically and internationally; statements relating to a potential CCS project; and the Company's strategy.
+
+The forward-looking information and statements contained in this press release reflect several material factors and expectations and assumptions of the Company including, without limitation: the continued performance of the Company's oil and gas properties in a manner consistent with its past experiences; that the Company will continue to conduct its operations in a manner consistent with past operations; expectations regarding future development; the general continuance of current industry conditions; the continuance of existing (and in certain circumstances, the implementation of proposed) tax, royalty and regulatory regimes; expectations regarding proposed and future acquisition opportunities; the accuracy of the estimates of the Company's reserves volumes; certain commodity price, interest rate, inflation and other cost assumptions; the continued availability of oilfield services; and the continued availability of adequate debt and equity financing and cash flow from operations to fund its planned expenditures and obligations and commitments. The Company believes the material factors, expectations and assumptions reflected in the forward-looking information and statements are reasonable, but no assurance can be given that these factors, expectations, and assumptions will prove to be correct.
+
+The forward-looking information and statements included in this press release are not guarantees of future performance and should not be unduly relied upon. Such information and statements involve known and unknown risks, uncertainties and other factors that may cause actual results or events to differ materially from those anticipated in such forward-looking information or statements including, without limitation: changes in commodity prices; changes in the demand for or supply of the Company's products; unanticipated operating results or production declines; changes in tax or environmental laws, royalty rates or other regulatory matters; changes in development plans of the Company or by third party operators of the Company's oil and gas interests, increased debt levels or debt service requirements; inaccurate estimation of the Company's oil and gas reserve or resource volumes; limited, unfavorable or a lack of access to capital markets; increased costs; a lack of adequate insurance coverage; the impact of competitors; and certain other risks detailed from time to time in the Company's public documents.
+
+The forward-looking information and statements contained in this press release speak only as of the date of this press release, and the Company does not assume any obligation to publicly update or revise them to reflect new events or circumstances or otherwise, except as may be required pursuant to applicable laws.
+
+SOURCE Tenaz Energy Corp.
+
+Market News and Data brought to you by Benzinga APIs",benzinga.com,news,Benzinga,,0.0980392156862746,452925185,100,https://www.benzinga.com/next-assets/images/schema-image-default.png,
+8115661139,eng,False,2024-05-07,13:36:12,2024-05-07T13:36:12Z,2024-05-07T13:35:38Z,news,0.5568627715110779,https://www.hellenicshippingnews.com/nwe-april-lng-imports-decline-on-year-uk-arrivals-sharply-lower/,NWE April LNG imports decline on year; UK arrivals sharply lower,"Northwest European LNG imports in April dropped year on year as other premium markets vacuumed cargoes away from the region, leaving supply tight in shoulder season.
+
+LNG imports into Northwest Europe -- France, Belgium, the Netherlands, Germany and the UK -- totaled 5.21 million mt in April, down 27.6% year on year, but up 7% month on month, according to S&P Global Commodity Insights data May 3.
+
+France continued to hold the top spot in terms of destination markets for the third consecutive month, accounting for 40% of the total imports, followed by the Netherlands (30%) and Belgium (13%).
+
+On the supply side, the US accounted for 57% of total imports into Northwest Europe, followed by Russia (17%) and Algeria (11%).
+
+The year-on-year decline was spearheaded by the UK and Belgium, down 83% and 37% respectively, while other countries saw an average growth of 6.3%.
+
+The region has been clouded by low demand, with higher-than-average gas inventory levels adding to the bearishness. Moreover, over April the region also had to compete with demand from Asia and other atypical demand regions like Egypt and Latin America, which swung cargoes away from Northwest Europe.
+
+""It seems that all of Europe is short,"" an Atlantic-based trader said.
+
+Dutch imports highest since 2012
+
+Netherlands imported 1.55 million mt LNG in April, making it the strongest April for the country since 2012. These levels were rangebound year on year but up 37% month on month.
+
+The robustness of imports into Netherlands comes on account of the competitiveness that the gas hub has displayed versus other premium markets in Europe, such as Italy and the Baltics.
+
+""Netherlands can compete with the other premium markets like Italy, Finland or Poland,"" a trader said. ""But other gas hubs are priced out, even France and Spain.""
+
+The region was particularly well supported in the second half of April when colder temperatures pushed the EU into net withdrawals and enabled the Netherlands to attract more cargoes.
+
+""[The Netherlands] didn't receive gas from [the Norwegian Continental Shelf] for five days, which coincided with the cold snap in the market, so the TTF reacted and pulled cargoes into the region and reduced pipeline exports to other markets,"" David Lewis, LNG analyst at S&P Global said.
+
+UK April imports hit 16-year low
+
+The UK imported 392,000 mt of LNG in April, the lowest level recorded for April since 2008, when imports amounted to 56,000 mt. Imports were down 82% year on year and 22% month on month.
+
+The low appetite of LNG into UK is a result of the weakness in the gas hub, making it uneconomical for the country to rely on LNG.
+
+""For some companies the last actual import into the UK was last October,"" the second trader said. ""The NBP/TTF spread kept dropping and there was no demand, so all the cargoes are diverted away.""
+
+The variable cost in the UK is also relatively higher, the trader said.
+
+The low imports into the UK could be here to stay while providing more leeway to other areas of Northwest Europe, according to S&P Global analysts.
+
+Exports from the UK along the IUK and BBL pipeline dropped 90% year on year to 3.4 MMcm/d in the first four months of 2024, Lewis said. ""France has overtaken the UK to become the preferred destination for LNG to enter the western Europe network,"" he said. ""The tighter global LNG market combined with expanded regasification capacity on the continent has reduced the role of the UK and could impact LNG demand into the UK throughout the summer months.""
+
+Rest of Northwest Europe
+
+Belgian imports in April also dropped sharply, falling 28% month on month and 37% year on year to 694,000 mt.
+
+""Belgium also has very low demand because ZTP doesn't make sense,"" the second trader said.
+
+The May 26 regasification slot at Zeebrugge, which was originally supposed to be auctioned on March 13, is still unauctioned, indicating low demand in the region.
+
+""the initial slot fee is already around Eur600,000, and then you have to discount the rest of the variable cost and ZTP, you already lose money,"" the second trader said.
+
+Platts, part of S&P Global Commodity Insights, assessed DES Northwest Europe Marker for June at $9.428/MMBtu on May 2, or at a discount of 25 cents/MMBtu to the June TTF hub futures price.
+
+Source:",hellenicshippingnews.com,news,Hellenic Shipping News,,0.0980392156862746,452784972,67,,eng-9545508
+8115276228,eng,False,2024-05-07,09:46:48,2024-05-07T09:46:48Z,2024-05-07T09:46:17Z,news,0.0,https://www.evwind.es/2024/05/07/photovoltaic-and-wind-energy-production-in-the-first-week-of-may/98344,Continue reading →,"In the week of April 29, prices in the main European electricity markets fell compared to the previous week. The exception was the Iberian MIBEL market, where prices rose, although they were the lowest again for the thirteenth consecutive week. Most markets registered negative hourly prices. Portugal and Italy broke the historical records for solar photovoltaic energy production over the weekend. Also in Italy, wind energy reached a record for a May month on the 3. Electricity demand fell in all markets.
+
+In the week of April 29, solar energy production increased in the German and Italian markets for the second consecutive week. The German market registered the largest increase, 15%, while in the Italian market the increase was 11%. On the other hand, in the French and Portuguese markets, solar energy production fell by 13% and 8.0%, respectively. In the Spanish market, solar energy production, which includes photovoltaic and thermoelectric energy, fell by 0.5%, breaking the upward trend registered over the last four weeks.
+
+Despite the overall lower solar energy production in Portugal during the first week of May, on Saturday, May 4, the historical record for daily solar photovoltaic energy production was broken again, with 18 GWh. The Italian market also set an all?time record for production using this technology one day later, on Sunday, May 5, with 134 GWh of solar photovoltaic energy generation.
+
+For the week of May 6, according to AleaSoft Energy Forecasting's solar energy production forecasts, it will decrease in Italy and Spain. However, solar energy production will continue to increase in Germany.
+
+Source: Prepared by AleaSoft Energy Forecasting using data from ENTSO-E, RTE, REN, REE and TERNA.
+
+Source: Prepared by AleaSoft Energy Forecasting using data from ENTSO-E, RTE, REN, REE and TERNA.
+
+In the first week of May, wind energy production increased in most major European markets compared to the previous week. The German market registered the largest increase, 34%, reversing the downward trend of the last three weeks. In the Italian market, the increase was 24%, followed by increases of 17% and 7.2% in the Portuguese and Spanish markets, respectively. Portugal has registered an increase in wind energy production over the last three weeks. On the other hand, the French market registered declines for the second consecutive week, this time by 11%.
+
+During the week of April 29, the Italian market broke the all?time record for daily wind energy production for a May month, with 129 GWh generated using this technology on Friday, May 3.
+
+In the second week of May, according to AleaSoft Energy Forecasting's wind energy production forecasts, it will decline in all analyzed markets.
+
+Source: Prepared by AleaSoft Energy Forecasting using data from ENTSO-E, RTE, REN, REE and TERNA.
+
+In the week of April 29, electricity demand decreased in all major European electricity markets compared to the previous week. The French and British markets registered the largest declines, 13% and 10% respectively. In the German, Belgian, Spanish and Italian markets, demand declines ranged from 7.3% in the German market to 3.2% in the Italian market. In the Italian market, demand continued the downward trend of the last three weeks, while in Germany and Belgium it was the second consecutive week with this trend. In the market of the Netherlands, the decrease in demand was 0.4%. The Portuguese market continued to register declines in demand for the fifth consecutive week, this time by 0.1%, which was the smallest decline of the week compared to the rest of the analyzed markets.
+
+The drop in demand in European markets during the first week of May was largely related to the May 1 holiday, International Workers' Day, which was celebrated in most Europe. Increases in average temperatures in most markets also contributed to the decline in demand. In Great Britain, Belgium, the Netherlands and Germany, average temperatures increased between 4.2 °C and 8.3 °C. In Spain, France and Italy, the increases were smaller, ranging from 1.6 °C to 4.2 °C. Portugal was the exception, with average temperatures decreasing by 0.9 °C.
+
+For the second week of May, according to AleaSoft Energy Forecasting's demand forecasts, electricity demand will increase in the Italian and Spanish markets. On the other hand, in the markets of France, Great Britain, Belgium, Germany, the Netherlands and Portugal, demand will continue to decrease.
+
+Source: Prepared by AleaSoft Energy Forecasting using data from ENTSO-E, RTE, REN, REE, TERNA, National Grid and ELIA.
+
+In the first week of May, prices in the main European electricity markets fell compared to the previous week. The exception was the MIBEL market of Spain and Portugal, with rises of 11% and 13%, respectively. The EPEX SPOT market of France and the Nord Pool market of the Nordic countries reached the largest percentage price declines, 44% and 49%, respectively. In contrast, the N2EX market of the United Kingdom registered the smallest percentage decline, 6.8%. In the rest of the markets analyzed at AleaSoft Energy Forecasting, prices fell between 17% in the EPEX SPOT market of the Netherlands and 27% in the EPEX SPOT market of Germany and Belgium.
+
+In the first week of May, weekly averages were below €65/MWh in most analyzed European electricity markets. The exceptions were the British market and the IPEX market of Italy, with averages of €80.48/MWh and €82.83/MWh, respectively. The Spanish and Portuguese markets registered the lowest weekly averages, €28.33/MWh and €28.34/MWh, respectively, for the thirteenth consecutive week. In the rest of the analyzed markets, prices ranged from €33.84/MWh in the French market to €61.53/MWh in the Dutch market.
+
+Regarding hourly prices, most analyzed European markets registered negative prices on May 1 and 5. The exceptions were the British, Italian and Nordic markets. The German, Belgian and Dutch markets also registered negative prices on May 2. The Dutch market reached the lowest hourly price, ?€200.00/MWh, on Wednesday, May 1, from 13:00 to 15:00. This price was the lowest in this market since the beginning of July 2023.
+
+During the week of April 29, the fall in demand, a slight decrease in the average gas price and the increase in wind energy production in most analyzed markets had a downward influence on European electricity market prices. In the case of the German and Italian markets, moreover, solar energy production increased.
+
+AleaSoft Energy Forecasting's price forecasts indicate that prices might increase in most analyzed European electricity markets in the second week of May, influenced by the drop in wind energy production. In addition, solar energy production might decrease in markets such as Spain and Italy.
+
+Source: Prepared by AleaSoft Energy Forecasting using data from OMIE, EPEX SPOT, Nord Pool and GME.
+
+Settlement prices of Brent oil futures for the Front?Month in the ICE market fell during the first week of May. On Monday, April 29, these futures reached their weekly maximum settlement price, $88.40/bbl. This price was 1.6% higher than the previous Monday. However, as a result of the downward trend of the first week of May, on Friday, May 3, they registered their weekly minimum settlement price, $82.96/bbl. According to data analyzed at AleaSoft Energy Forecasting, this price was 7.3% lower than the previous Friday and the lowest since the first half of March.
+
+During the first week of May, concerns about the evolution of the world economy and its effects on demand caused Brent oil futures prices to fall. High inflation levels in the United States might delay the lowering of interest rates in the country. On the other hand, expectations of a ceasefire in Gaza also contributed to the price decline. However, in the second week of May, the possibility of OPEC+ maintaining its production cuts after June and the worsening conflict in the Middle East might exert an upward influence on prices.
+
+As for TTF gas futures in the ICE market for the Front?Month, on Monday, April 29, they reached their weekly minimum settlement price, €27.99/MWh. According to data analyzed at AleaSoft Energy Forecasting, this price was 5.8% lower than the previous Monday and the lowest in the second half of April. In the following two sessions of the first week of May, settlement prices remained below €30/MWh. However, on Thursday, May 2, after a 7.6% rise over the previous session, these futures reached their weekly maximum settlement price, €30.91/MWh. This price was 3.8% higher than the previous Thursday. In the last session of the first week of May, the settlement price was €30.53/MWh.
+
+In the first week of May, prospects for an improvement in the Middle East conflict and high European reserves levels exerted their downward influence on TTF gas futures prices. However, forecasts of declines in wind energy production contributed to the recovery in prices at the end of the week.
+
+As for CO emission allowances futures in the EEX market for the reference contract of December 2024, settlement prices remained below €70/t in the last two sessions of April. On Monday, April 29, these futures reached their weekly minimum settlement price, €65.49/t. According to data analyzed at AleaSoft Energy Forecasting, this price was 1.3% lower than the previous Monday and the lowest in the second half of April. In contrast, on Thursday, May 2, these futures registered their weekly maximum settlement price, €72.52/t. This price was 6.0% higher than the previous Thursday. The settlement price for the last session of the first week of May was €72.01/t. Despite the slight decrease from the previous day, this price was still 7.6% higher than the previous Friday.
+
+Source: Prepared by AleaSoft Energy Forecasting using data from ICE and EEX.
+
+Next Thursday, May 9, AleaSoft Energy Forecasting and AleaGreen will hold the 44 webinar of their monthly webinar series. The topics of this webinar will be the evolution and prospects of European energy markets, low, zero and negative prices in European electricity markets, the vision of the future of the energy sector and the energy transition vectors, such as renewable energy, demand, energy storage and green hydrogen. The analysis table of the webinar in Spanish will count with the participation, for the second time, of Luis Atienza Serna, Minister of the Spanish Government between 1994 and 1996 and president of Red Eléctrica de España between 2004 and 2012.",evwind.es,news,AEEolica,,0.1372549019607843,452771208,34,,
